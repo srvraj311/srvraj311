@@ -12,9 +12,11 @@
 
 🤞 I'm on track for learning Software Development and Becoming a full time Software Engineer&nbsp;  
 
-🤞 Good in Java and Python&nbsp;  
+🤞 Love to Solve Problems with Java and Python&nbsp;  
 
-🤞 Also familiar with Web-Technologies like HTML, CSS, JS, React, REST_API.&nbsp;  
+🤞 Web- Development using MERN Stack &nbsp;  
+
+🤞 Graphics Designing and Photography is my Hobby.&nbsp;  
 
 🤞 Interested in Machine Learning Domain&nbsp;  
 
@@ -25,6 +27,10 @@
 
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=android)
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=photoshop)
+![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=illustrator)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
