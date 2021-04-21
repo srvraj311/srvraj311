@@ -8,12 +8,12 @@
 
 ### 👨🏻‍💻 About Me
 
-🤞 I'm a Electronics and Communication Engineering final year Student at Dr. B.C.Roy Engineering College, Durgapur (2018 - 2022)\
-🤞 I'm on track for learning Software Development and Becoming a full time Software Engineer
-🤞 Good in Java and Python
-🤞 Also familiar with Web-Technologies like HTML, CSS, JS, React, REST_API.
-🤞 Interested in Machine Learning Domain
-🤞 Here is My [Resume](https://drive.google.com/file/d/1HexNs0HEF3_-y_IhhiTxA_hWyxMiLhQd/view?usp=sharing)
+🤞 I'm a Electronics and Communication Engineering final year Student at Dr. B.C.Roy Engineering College, Durgapur (2018 - 2022)&nbsp;
+🤞 I'm on track for learning Software Development and Becoming a full time Software Engineer&nbsp;
+🤞 Good in Java and Python&nbsp;
+🤞 Also familiar with Web-Technologies like HTML, CSS, JS, React, REST_API.&nbsp;
+🤞 Interested in Machine Learning Domain&nbsp;
+🤞 Here is My [Resume](https://drive.google.com/file/d/1HexNs0HEF3_-y_IhhiTxA_hWyxMiLhQd/view?usp=sharing)&nbsp;
 
 ### 🛠 &nbsp;My Stacks
 
