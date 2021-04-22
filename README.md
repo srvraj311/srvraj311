@@ -14,7 +14,7 @@
 
 🤞 Love to Solve Problems with Java and Python&nbsp;  
 
-🤞 Web - Development using MERN Stack &nbsp;  
+🤞 Web - Development using MFRN Stack (MongoDB - Flask - React - Node) &nbsp;  
 
 🤞 Graphics Designing and Photography is my Hobby.&nbsp;  
 
