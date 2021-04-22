@@ -8,7 +8,7 @@
 
 ### 👨🏻‍💻 About Me
 
-🤞 I'm a Electronics and Communication Engineering final year Student at Dr. B.C.Roy Engineering College, Durgapur (2018 - 2022)&nbsp;  
+🤞 I'm a Electronics and Communication Engineering Pre-Final year Student at Dr. B.C.Roy Engineering College, Durgapur (2018 - 2022)&nbsp;  
 
 🤞 I'm on track for learning Software Development and Becoming a full time Software Engineer&nbsp;  
 
