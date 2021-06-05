@@ -12,15 +12,15 @@
 
 🤞 I'm on track for learning Software Development and Becoming a full time Software Engineer&nbsp;  
 
-🤞 Love to Solve Problems with Java and Python&nbsp;  
+🤞 Love to Solve Problems with Java and Python, Also sometimes with C and C++. 3⭐ Coder at Codechef&nbsp;  
 
 🤞 Web - Development using MFRN Stack (MongoDB - Flask - React - Node) &nbsp;  
 
+🤞 Familiar with Desktop App Development With JavaFX and Android Development with Java.
+
+🤞 Learning to build and Deploy Microservices with Spring Framework and AWS fundamentals.
+
 🤞 Graphics Designing and Photography is my Hobby.&nbsp;  
-
-🤞 Interested in Machine Learning Domain&nbsp;  
-
-🤞 Here is My [Resume](https://drive.google.com/file/d/1HexNs0HEF3_-y_IhhiTxA_hWyxMiLhQd/view?usp=sharing)&nbsp;  
 
 
 ### 🛠 &nbsp;My Stacks
