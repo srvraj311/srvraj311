@@ -25,6 +25,13 @@
 
 ### 🛠 &nbsp;My Stacks
 
+#### Currently Learning
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
+<img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
+![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=android)
+
+
 #### Languages 
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
@@ -36,14 +43,11 @@
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
 #### Development
-![JavaFX](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)
-![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=android)
-![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
+![JavaFX](https://img.shields.io/badge/-JavaFX-05122A?style=flat&logo=Java&logoColor=FFA518)
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![NumPy](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=flat&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=flat&logo=pandas&logoColor=white)
-<img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
 <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 
 #### Others
@@ -52,6 +56,7 @@
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=illustrator)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
+
 
 
 
