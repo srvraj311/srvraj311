@@ -25,21 +25,35 @@
 
 ### 🛠 &nbsp;My Stacks
 
+#### Languages 
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=android)
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=photoshop)
-![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=illustrator)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)
+![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+
+#### Development
+![JavaFX](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)
+![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=android)
+![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![NumPy](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=flat&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=flat&logo=pandas&logoColor=white)
+<img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+<img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+
+#### Others
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=photoshop)
+![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=illustrator)
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
+
+
 
 
 ### 📫 &nbsp; How to reach me:
