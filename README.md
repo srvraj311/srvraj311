@@ -1,4 +1,4 @@
-![BannerGIF](https://res.cloudinary.com/dvmsk482x/image/upload/v1619027151/banner_i0dibs.jpg)
+![BannerGIF](https://res.cloudinary.com/srvraj311/image/upload/v1626321526/Banner_uozlq3.png)
 
 
 
