@@ -2,13 +2,13 @@
 
 
 
-![version :25.03.2021](https://img.shields.io/badge/version-25.03.2021-informational) 
+![version :15.08.2021](https://img.shields.io/badge/version-25.03.2021-informational) 
 ![profile count](https://komarev.com/ghpvc/?username=srvraj311&color=green)
 [![GitHub Srvraj311](https://img.shields.io/github/followers/srvraj311?label=follow&style=social)](https://github.com/srvraj311)
 
 ### 👨🏻‍💻 About Me
 
-🤞 I'm a Electronics and Communication Engineering Pre-Final year Student at Dr. B.C.Roy Engineering College, Durgapur (2018 - 2022)&nbsp;  
+🤞 I'm a Electronics and Communication Engineering Final year Student at Dr. B.C.Roy Engineering College, Durgapur (2018 - 2022)&nbsp;  
 
 🤞 I'm on track for learning Software Development and Becoming a full time Software Engineer&nbsp;  
 
