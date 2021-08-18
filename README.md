@@ -10,15 +10,15 @@
 
 🤞 I'm a Electronics and Communication Engineering Final year Student at Dr. B.C.Roy Engineering College, Durgapur (2018 - 2022)&nbsp;  
 
-🤞 I'm on track for learning Software Development and Becoming a full time Software Engineer&nbsp;  
+🤞 I'm practising Software Development and aiming to become a Full Stack Software Engineer&nbsp;  
 
 🤞 Love to Solve Problems with Java and Python, Also sometimes with C and C++. 3⭐ Coder at Codechef&nbsp;  
 
 🤞 Web - Development using MFRN Stack (MongoDB - Flask - React - Node) &nbsp;  
 
-🤞 Familiar with Desktop App Development With JavaFX and Android Development with Java.
+🤞 Android Development with Java , Desktop applications with JavaFX and ElectronJS &nbsp;  
 
-🤞 Learning to build and Deploy Microservices with Spring Framework and AWS fundamentals.
+🤞 Learning to build and Deploy Microservices with Spring Framework and AWS
 
 🤞 Graphics Designing and Photography is my Hobby.&nbsp;  
 
@@ -29,22 +29,20 @@
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
-![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=android)
-
 
 #### Languages 
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
 #### Development
-![JavaFX](https://img.shields.io/badge/-JavaFX-05122A?style=flat&logo=Java&logoColor=FFA518)
+![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=android)
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+![JavaFX](https://img.shields.io/badge/-JavaFX-05122A?style=flat&logo=Java&logoColor=FFA518)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![NumPy](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=flat&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=flat&logo=pandas&logoColor=white)
