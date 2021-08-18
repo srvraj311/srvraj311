@@ -10,7 +10,7 @@
 
 🤞 I'm a Electronics and Communication Engineering Final year Student at Dr. B.C.Roy Engineering College, Durgapur (2018 - 2022)&nbsp;  
 
-🤞 I'm practising Software Development and aiming to become a Full Stack Software Engineer&nbsp;  
+🤞 I'm practicing Software Development and aiming to become a Full Stack Software Developer&nbsp;  
 
 🤞 Love to Solve Problems with Java and Python, Also sometimes with C and C++. 3⭐ Coder at Codechef&nbsp;  
 
