@@ -2,7 +2,7 @@
 
 
 
-![version :15.08.2021](https://img.shields.io/badge/version-25.03.2021-informational) 
+![version :15.08.2021](https://img.shields.io/badge/version-26.02.2022-informational) 
 ![profile count](https://komarev.com/ghpvc/?username=srvraj311&color=green)
 [![GitHub Srvraj311](https://img.shields.io/github/followers/srvraj311?label=follow&style=social)](https://github.com/srvraj311)
 
