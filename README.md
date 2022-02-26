@@ -8,15 +8,15 @@
 
 ### 👨🏻‍💻 About Me
 
-🤞 I'm a Electronics and Communication Engineering Final year Student at Dr. B.C.Roy Engineering College, Durgapur (2018 - 2022)&nbsp;  
+🤞 I'm a Software Engineer at Persistent Systems&nbsp;  
 
-🤞 I'm practicing Software Development and aiming to become a Full Stack Software Developer&nbsp;  
+🤞 I'm passionate in technology and love to spend time with them.&nbsp;  
 
-🤞 Love to Solve Problems with Java and Python, Also sometimes with C and C++. 3⭐ Coder at Codechef&nbsp;  
+🤞 Love to Solve Problems with Java and Python &nbsp;  
 
-🤞 Web - Development using MFRN Stack (MongoDB - Flask - React - Node) &nbsp;  
+🤞 Web - Development Angular and React (Full Stack) &nbsp;  
 
-🤞 Android Development with Java , Desktop applications with JavaFX and ElectronJS &nbsp;  
+🤞 Android Development with Java &nbsp;  
 
 🤞 Learning to build and Deploy Microservices with Spring Framework and AWS
 
@@ -40,6 +40,7 @@
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
 #### Development
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=android)
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 ![JavaFX](https://img.shields.io/badge/-JavaFX-05122A?style=flat&logo=Java&logoColor=FFA518)
