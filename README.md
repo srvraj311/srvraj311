@@ -12,13 +12,11 @@
 
 🤞 I'm passionate in technology and love to spend time with them.&nbsp;  
 
-🤞 Love to Solve Problems with Java and Python &nbsp;  
+🤞 Love to Solve Problems with Java. &nbsp;  
 
 🤞 Web - Development Angular and React (Full Stack) &nbsp;  
 
-🤞 Android Development with Java &nbsp;  
-
-🤞 Learning to build and Deploy Microservices with Spring Framework and AWS
+🤞 Android Development and Springboot with Java &nbsp;  
 
 🤞 Graphics Designing and Photography is my Hobby.&nbsp;  
 
