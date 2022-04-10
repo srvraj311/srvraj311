@@ -24,9 +24,9 @@
 ### 🛠 &nbsp;My Stacks
 
 #### Currently Learning
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
-<img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 
 #### Languages 
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)
@@ -38,7 +38,6 @@
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
 #### Development
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=android)
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 ![JavaFX](https://img.shields.io/badge/-JavaFX-05122A?style=flat&logo=Java&logoColor=FFA518)
@@ -53,6 +52,9 @@
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=illustrator)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
+<img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
 
 
 
