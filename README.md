@@ -14,9 +14,9 @@
 
 🤞 Love to Solve Problems with Java. &nbsp;  
 
-🤞 Web - Development Angular and React (Full Stack) &nbsp;  
+🤞 Web - Development MEAN and MERN stack. &nbsp;  
 
-🤞 Android Development and Springboot with Java &nbsp;  
+🤞 Android Development with Java &nbsp;  
 
 🤞 Graphics Designing and Photography is my Hobby.&nbsp;  
 
