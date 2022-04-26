@@ -21,7 +21,7 @@ A MEAN Stack application to shorten URL build and deployed **under 4 hours** as 
 [![Android-Repo](https://img.shields.io/badge/View--REPO-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)](https://github.com/srvraj311/shortify-url-shortener) [![Image](https://img.shields.io/badge/View--LIVE-43853D?style=for-the-badge&logoColor=white)](https://short-i-fy.herokuapp.com/)  
 
 ---
-####  Seat-Allocation System
+###  Seat-Allocation System
 ![Image](https://res.cloudinary.com/srvraj311/image/upload/c_scale,w_190/v1649563429/Screenshot_2022-04-10_at_9.32.47_AM_vzxnch.png)  
 Displayed an efficient seat booking algorithm onto a full stack application as a part of Hiring Challenge by Dare2Compete.com (Unstop.com)  
 ![React](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb) ![React](https://img.shields.io/badge/-ExpressJS-05122A?style=flat&logo=express) ![React](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)  ![React](https://img.shields.io/badge/-NodeJS-05122A?style=flat&logo=node.js)  
