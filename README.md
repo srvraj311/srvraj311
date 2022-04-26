@@ -17,31 +17,39 @@
 
 A MEAN Stack application to shorten URL build and deployed **under 4 hours** as a challenge.   
 
-![Image](https://res.cloudinary.com/srvraj311/image/upload/c_scale,w_238/v1650611514/Screenshot_2022-04-22_at_12.36.33_PM_ewbfp5.png)  
 ![React](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb) ![React](https://img.shields.io/badge/-ExpressJS-05122A?style=flat&logo=express) ![React](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)  ![React](https://img.shields.io/badge/-NodeJS-05122A?style=flat&logo=node.js)  
 
-![Image](https://res.cloudinary.com/srvraj311/image/upload/c_scale,w_238/v1650611514/Screenshot_2022-04-22_at_12.36.33_PM_ewbfp5.png)  
 [![Android-Repo](https://img.shields.io/badge/View--REPO-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)](https://github.com/srvraj311/enWrite-angular) [![Image](https://img.shields.io/badge/View--LIVE-43853D?style=for-the-badge&logoColor=white)](https://short-i-fy.herokuapp.com/)  
 
 ---
 ####  Seat-Allocation System
-![Image](https://res.cloudinary.com/srvraj311/image/upload/c_scale,w_190/v1649563429/Screenshot_2022-04-10_at_9.32.47_AM_vzxnch.png)
-Displayed an efficient seat booking algorithm onto a full stack application as a part of Hiring Challenge by
-Dare2Compete.com (Unstop.com) 
+![Image](https://res.cloudinary.com/srvraj311/image/upload/c_scale,w_190/v1649563429/Screenshot_2022-04-10_at_9.32.47_AM_vzxnch.png)  
+
+Displayed an efficient seat booking algorithm onto a full stack application as a part of Hiring Challenge by Dare2Compete.com (Unstop.com)  
+
 ![React](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb) ![React](https://img.shields.io/badge/-ExpressJS-05122A?style=flat&logo=express) ![React](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)  ![React](https://img.shields.io/badge/-NodeJS-05122A?style=flat&logo=node.js)  
-[![Android-Repo](https://img.shields.io/badge/View--REPO-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)](https://github.com/srvraj311/seat-allocation-fullstack) [![Image](https://img.shields.io/badge/View--LIVE-43853D?style=for-the-badge&logoColor=white)](https://seat-allocation-angular.herokuapp.com/)
+[![Android-Repo](https://img.shields.io/badge/View--REPO-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)](https://github.com/srvraj311/seat-allocation-fullstack) [![Image](https://img.shields.io/badge/View--LIVE-43853D?style=for-the-badge&logoColor=white)](https://seat-allocation-angular.herokuapp.com/)  
+
 ---
 ####  EnWrite : Note Taking Application
-![image](https://res.cloudinary.com/srvraj311/image/upload/c_scale,w_116/v1626325102/Main_2_hu5xxl.png) ![Image](https://res.cloudinary.com/srvraj311/image/upload/c_scale,h_140/v1649557782/Screenshot_2022-04-10_at_7.52.10_AM_ude1wp.png)
-A Complete Note taking application for Web/Android based on Firebase. 
-![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=android) ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react) ![React](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb) ![React](https://img.shields.io/badge/-ExpressJS-05122A?style=flat&logo=express) ![React](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)  ![React](https://img.shields.io/badge/-NodeJS-05122A?style=flat&logo=node.js)  ![React](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)
-[![Android-Repo](https://img.shields.io/badge/Android--REPO-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)](https://github.com/srvraj311/enWrite-Android) [![Android-Repo](https://img.shields.io/badge/WEB--REPO-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)](https://github.com/srvraj311/enWrite-angular) [![Image](https://img.shields.io/badge/View--LIVE-43853D?style=for-the-badge&logoColor=white)](https://enwrite-8ffba.web.app/)
+![image](https://res.cloudinary.com/srvraj311/image/upload/c_scale,w_116/v1626325102/Main_2_hu5xxl.png) ![Image](https://res.cloudinary.com/srvraj311/image/upload/c_scale,h_140/v1649557782/Screenshot_2022-04-10_at_7.52.10_AM_ude1wp.png)  
+
+A Complete Note taking application for Web/Android based on Firebase.  
+
+![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=android) ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react) ![React](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb) ![React](https://img.shields.io/badge/-ExpressJS-05122A?style=flat&logo=express) ![React](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)  ![React](https://img.shields.io/badge/-NodeJS-05122A?style=flat&logo=node.js)  ![React](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)  
+
+[![Android-Repo](https://img.shields.io/badge/Android--REPO-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)](https://github.com/srvraj311/enWrite-Android) [![Android-Repo](https://img.shields.io/badge/WEB--REPO-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)](https://github.com/srvraj311/enWrite-angular) [![Image](https://img.shields.io/badge/View--LIVE-43853D?style=for-the-badge&logoColor=white)](https://enwrite-8ffba.web.app/)  
+
 ---
 #### -Health.IO : Public HealthCare Management System
-![[image]](https://res.cloudinary.com/srvraj311/image/upload/c_scale,w_88/v1628986650/Screenshot_2021-08-13-09-39-36-141_comsrvraj311smart_health_management_tiob1t.jpg) ![image](https://res.cloudinary.com/srvraj311/image/upload/c_scale,w_88/v1628986650/Screenshot_2021-08-13-09-39-39-725_comsrvraj311smart_health_management_x7lyro.jpg) ![](https://res.cloudinary.com/srvraj311/image/upload/c_scale,h_190/v1626869096/Screenshot_2021-07-21_173433_wh2jbj.png)
-Healthcare management application to retrieve real time medical amenities and data from hospitals around user. 
-![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=android) ![React](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)  ![React](https://img.shields.io/badge/-NodeJS-05122A?style=flat&logo=node.js) ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react) ![React](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring)
-[![Android-Repo](https://img.shields.io/badge/Android--REPO-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)](https://github.com/srvraj311/project-health.io-Android) [![Android-Repo](https://img.shields.io/badge/DESKTOP--APP--REPO-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)](https://github.com/srvraj311/health-io-electron-react) [![Android-Repo](https://img.shields.io/badge/API--REPO-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)](https://github.com/srvraj311/health.io-API)
+![[image]](https://res.cloudinary.com/srvraj311/image/upload/c_scale,w_88/v1628986650/Screenshot_2021-08-13-09-39-36-141_comsrvraj311smart_health_management_tiob1t.jpg) ![image](https://res.cloudinary.com/srvraj311/image/upload/c_scale,w_88/v1628986650/Screenshot_2021-08-13-09-39-39-725_comsrvraj311smart_health_management_x7lyro.jpg) ![img](https://res.cloudinary.com/srvraj311/image/upload/c_scale,h_190/v1626869096/Screenshot_2021-07-21_173433_wh2jbj.png)  
+
+Healthcare management application to retrieve real time medical amenities and data from hospitals around user.  
+
+![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=android) ![React](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)  ![React](https://img.shields.io/badge/-NodeJS-05122A?style=flat&logo=node.js) ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react) ![React](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring)  
+
+[![Android-Repo](https://img.shields.io/badge/Android--REPO-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)](https://github.com/srvraj311/project-health.io-Android) [![Android-Repo](https://img.shields.io/badge/DESKTOP--APP--REPO-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)](https://github.com/srvraj311/health-io-electron-react) [![Android-Repo](https://img.shields.io/badge/API--REPO-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)](https://github.com/srvraj311/health.io-API)  
+
 ---
 
 
