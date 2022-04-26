@@ -1,21 +1,28 @@
 ![BannerGIF](https://res.cloudinary.com/srvraj311/image/upload/v1626321526/Banner_uozlq3.png)
 ![version :15.08.2021](https://img.shields.io/badge/version-26.02.2022-informational) ![profile count](https://komarev.com/ghpvc/?username=srvraj311&color=green) [![GitHub Srvraj311](https://img.shields.io/github/followers/srvraj311?label=follow&style=social)](https://github.com/srvraj311)
 ---
-### 👨🏻‍💻 About Me
-🤞 I'm a Software Engineer at Persistent Systems Limited.
+### 👨🏻‍💻 About Me. 
+
+🤞 I'm a Software Engineer at Persistent Systems Limited.  
 🤞 I'm passionate in technology and love to spend time with them.  
-🤞 Love to Solve Problems with Java.
+🤞 Love to Solve Problems with Java.  
 🤞 Web - Development MEAN and MERN stack.  
-🤞 Android Development with Java.
-🤞 Graphics Designing and Photography is my Hobby.
----
+🤞 Android Development with Java.  
+🤞 Graphics Designing and Photography is my Hobby.  
+
 ## 🛠 &nbsp;My Projects
 ---
 ####  Shortify : Url Shortner 
-![Image](https://res.cloudinary.com/srvraj311/image/upload/c_scale,w_238/v1650611514/Screenshot_2022-04-22_at_12.36.33_PM_ewbfp5.png)
-A MEAN Stack application to shorten URL build and deployed **under 4 hours** as a challenge. 
-![React](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb) ![React](https://img.shields.io/badge/-ExpressJS-05122A?style=flat&logo=express) ![React](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)  ![React](https://img.shields.io/badge/-NodeJS-05122A?style=flat&logo=node.js)
-[![Android-Repo](https://img.shields.io/badge/View--REPO-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)](https://github.com/srvraj311/enWrite-angular) [![Image](https://img.shields.io/badge/View--LIVE-43853D?style=for-the-badge&logoColor=white)](https://short-i-fy.herokuapp.com/)
+![Image](https://res.cloudinary.com/srvraj311/image/upload/c_scale,w_238/v1650611514/Screenshot_2022-04-22_at_12.36.33_PM_ewbfp5.png)  
+
+A MEAN Stack application to shorten URL build and deployed **under 4 hours** as a challenge.   
+
+![Image](https://res.cloudinary.com/srvraj311/image/upload/c_scale,w_238/v1650611514/Screenshot_2022-04-22_at_12.36.33_PM_ewbfp5.png)  
+![React](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb) ![React](https://img.shields.io/badge/-ExpressJS-05122A?style=flat&logo=express) ![React](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)  ![React](https://img.shields.io/badge/-NodeJS-05122A?style=flat&logo=node.js)  
+
+![Image](https://res.cloudinary.com/srvraj311/image/upload/c_scale,w_238/v1650611514/Screenshot_2022-04-22_at_12.36.33_PM_ewbfp5.png)  
+[![Android-Repo](https://img.shields.io/badge/View--REPO-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)](https://github.com/srvraj311/enWrite-angular) [![Image](https://img.shields.io/badge/View--LIVE-43853D?style=for-the-badge&logoColor=white)](https://short-i-fy.herokuapp.com/)  
+
 ---
 ####  Seat-Allocation System
 ![Image](https://res.cloudinary.com/srvraj311/image/upload/c_scale,w_190/v1649563429/Screenshot_2022-04-10_at_9.32.47_AM_vzxnch.png)
