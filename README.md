@@ -19,6 +19,7 @@
 A MEAN Stack application to shorten URL build and deployed **under 4 hours** as a challenge.   
 ![React](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb) ![React](https://img.shields.io/badge/-ExpressJS-05122A?style=flat&logo=express) ![React](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)  ![React](https://img.shields.io/badge/-NodeJS-05122A?style=flat&logo=node.js)  
 [![Android-Repo](https://img.shields.io/badge/View--REPO-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)](https://github.com/srvraj311/shortify-url-shortener) [![Image](https://img.shields.io/badge/View--LIVE-43853D?style=for-the-badge&logoColor=white)](https://shortee-fy.herokuapp.com/)  
+(Live link might not work due to account maintainance on heroku)
 
 ---
 ###  Seat-Allocation System
