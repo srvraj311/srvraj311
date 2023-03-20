@@ -27,6 +27,7 @@ A MEAN Stack application to shorten URL build and deployed **under 4 hours** as 
 Displayed an efficient seat booking algorithm based on Dynamic Programming onto a full stack application as a part of Hiring Challenge by Dare2Compete.com (Unstop.com)  
 ![React](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb) ![React](https://img.shields.io/badge/-ExpressJS-05122A?style=flat&logo=express) ![React](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)  ![React](https://img.shields.io/badge/-NodeJS-05122A?style=flat&logo=node.js)  
 [![Android-Repo](https://img.shields.io/badge/View--REPO-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)](https://github.com/srvraj311/seat-allocation-fullstack) [![Image](https://img.shields.io/badge/View--LIVE-43853D?style=for-the-badge&logoColor=white)](https://seat-allocation-system.herokuapp.com/)  
+(Live link might not work due to account maintainance on heroku)
 
 ---
 ###  EnWrite : Note Taking Application
@@ -42,7 +43,7 @@ A Complete Note taking application for Web/Android based on Firebase.
 Healthcare management application to retrieve real time medical amenities and data from hospitals around user.  
 ![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=android) ![React](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)  ![React](https://img.shields.io/badge/-NodeJS-05122A?style=flat&logo=node.js) ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react) ![React](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring)  
 [![Android-Repo](https://img.shields.io/badge/Android--REPO-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)](https://github.com/srvraj311/project-health.io-Android) [![Android-Repo](https://img.shields.io/badge/DESKTOP--APP--REPO-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)](https://github.com/srvraj311/health-io-hospital) [![Android-Repo](https://img.shields.io/badge/API--REPO-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)](https://github.com/srvraj311/health.io-API) [![Android-Repo](https://img.shields.io/badge/View--LIVE-43853D?style=for-the-badge&logoColor=white)](https://healthio-app.herokuapp.com/)
-
+(Live link might not work due to account maintainance on heroku)
 ---
 
 ## 📫 Reach me:
