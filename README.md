@@ -4,11 +4,11 @@
 ---
 ## 👨🏻‍💻 About Me. 
 
-🤞 I'm a Software Engineer at Persistent Systems Limited.  
+🤞 I'm a Senior Software Engineer at Persistent Systems Limited.  
 🤞 I'm passionate in technology and love to spend time with them.  
 🤞 Love to Solve Problems with Java.  
 🤞 Web - Development MEAN and MERN stack.  
-🤞 Android Development with Java.  
+🤞 Android Development with Java, And React Native.  
 🤞 Graphics Designing and Photography is my Hobby.  
 
 ## 🛠 &nbsp;My Projects 
@@ -43,7 +43,7 @@ A Complete Note taking application for Web/Android based on Firebase.
 Healthcare management application to retrieve real time medical amenities and data from hospitals around user.  
 ![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=android) ![React](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)  ![React](https://img.shields.io/badge/-NodeJS-05122A?style=flat&logo=node.js) ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react) ![React](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring)  
 [![Android-Repo](https://img.shields.io/badge/Android--REPO-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)](https://github.com/srvraj311/project-health.io-Android) [![Android-Repo](https://img.shields.io/badge/DESKTOP--APP--REPO-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)](https://github.com/srvraj311/health-io-hospital) [![Android-Repo](https://img.shields.io/badge/API--REPO-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)](https://github.com/srvraj311/health.io-API) [![Android-Repo](https://img.shields.io/badge/View--LIVE-43853D?style=for-the-badge&logoColor=white)](http://20.185.192.206:8080/)  
-( Kindly ignore the insecure error as the URLs are HTTP)
+(Live link might not work due to account maintainance on heroku)
 
 ---
 
