@@ -1,8 +1,8 @@
 {
   "rewrites": [
     {
-      "source": "/",
-      "destination": "https://srvraj311.notion.site/App-e72f0959ad5144c2944e53f9aa07c927/"
+      "source": "/*",
+      "destination": "https://srvraj311.notion.site/App-e72f0959ad5144c2944e53f9aa07c927/*"
     }
   ]
 }
