@@ -12,32 +12,37 @@
 ---
 ## 🛠 &nbsp;My Skills
 
-![version :27.03.2024](https://img.shields.io/badge/%201-FRONTEND-5638ff?style=for-the-badge) 
+![version :27.03.2024](https://img.shields.io/badge/%201-FRONTEND-5638ff?style=for-the-badge)   
+
 ![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) ![](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)   ![](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white) ![](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) 
 ![](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![](https://img.shields.io/badge/Ag_Grid-CA4245?style=for-the-badge&logo=aggrid&logoColor=white) ![](https://img.shields.io/badge/Jasmine-CA4245?style=for-the-badge&logo=jasmine&logoColor=white) 
 
 
-![version :27.03.2024](https://img.shields.io/badge/%202-BACKEND-5638ff?style=for-the-badge) 
+![version :27.03.2024](https://img.shields.io/badge/%202-BACKEND-5638ff?style=for-the-badge)   
+
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white
 ) 
 ![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)  
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)   ![](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![](https://img.shields.io/badge/Numpy-000000?style=for-the-badge&logo=numpy&logoColor=white) ![](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=white)
 
-![version :27.03.2024](https://img.shields.io/badge/%203-MOBILE-5638ff?style=for-the-badge) 
+![version :27.03.2024](https://img.shields.io/badge/%203-MOBILE-5638ff?style=for-the-badge)   
+
 ![](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 ) ![](https://img.shields.io/badge/Android-28d484?style=for-the-badge&logo=android-studio&logoColor=white
 ) ![](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white
 ) ![](https://img.shields.io/badge/XCode-20232A?style=for-the-badge&logo=xcode&logoColor=61DAFB
 ) 
 
-![version :27.03.2024](https://img.shields.io/badge/%204-DATABASE-5638ff?style=for-the-badge) 
+![version :27.03.2024](https://img.shields.io/badge/%204-DATABASE-5638ff?style=for-the-badge)   
+
 ![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white
 ) ![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white
 ) ![](https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=Oracle&logoColor=white
 )
 
-![version :27.03.2024](https://img.shields.io/badge/%205-DEVOPS%20&%20Cloud-5638ff?style=for-the-badge) 
+![version :27.03.2024](https://img.shields.io/badge/%205-DEVOPS%20&%20Cloud-5638ff?style=for-the-badge)   
+
 ![](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white
 ) ![](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white
 ) ![](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white
@@ -49,7 +54,8 @@
 ) ![](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white
 )
 
-![version :27.03.2024](https://img.shields.io/badge/%205-Design-5638ff?style=for-the-badge) 
+![version :27.03.2024](https://img.shields.io/badge/%205-Design-5638ff?style=for-the-badge)  
+
 ![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white
 ) ![](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6
 ) ![](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white
@@ -69,7 +75,8 @@ A MEAN Stack application to shorten a long URL, Uses randomly generated keys to 
 ---
 ###  2. Seat-Allocation System
 ![Image](https://res.cloudinary.com/srvraj311/image/upload/c_scale,w_190/v1649563429/Screenshot_2022-04-10_at_9.32.47_AM_vzxnch.png)  
-Displayed an efficient seat booking algorithm based on Dynamic Programming onto a full stack application as a part of Hiring Challenge by Dare2Compete.com (Unstop.com). View the repo for problem statement and my solution for the same.
+Displayed an efficient seat booking algorithm based on Dynamic Programming onto a full stack application as a part of Hiring Challenge by Dare2Compete.com (Unstop.com). View the repo for problem statement and my solution for the same.  
+
 ![React](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb) ![React](https://img.shields.io/badge/-ExpressJS-05122A?style=flat&logo=express) ![React](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)  ![React](https://img.shields.io/badge/-NodeJS-05122A?style=flat&logo=node.js)  
 [![Android-Repo](https://img.shields.io/badge/View--REPO-5638ff?style=for-the-badge&logo=material-ui&logoColor=white)](https://github.com/srvraj311/seat-allocation-fullstack) 
 
@@ -78,6 +85,7 @@ Displayed an efficient seat booking algorithm based on Dynamic Programming onto 
 ![Image](https://res.cloudinary.com/srvraj311/image/upload/c_scale,h_140/v1651097378/Screenshot_2022-04-28_at_3.39.29_AM_xwu1lo.png) ![image](https://res.cloudinary.com/srvraj311/image/upload/c_scale,h_140/v1626325667/Screenshot_20210715_103641_tniq8i.png) ![image](https://res.cloudinary.com/srvraj311/image/upload/c_scale,h_140/v1626325667/Screenshot_20210715_103649_ubdhbg.png)  
 A Complete Note taking application for Web/Android based on Firebase
 **Released new Verisons for Mac/Windows - View [Here](https://github.com/srvraj311/enwrite-angular/releases/tag/0.1.0)**  
+
 ![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=android) ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react) ![React](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb) ![React](https://img.shields.io/badge/-ExpressJS-05122A?style=flat&logo=express) ![React](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)  ![React](https://img.shields.io/badge/-NodeJS-05122A?style=flat&logo=node.js)  ![React](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)  
 [![Android-Repo](https://img.shields.io/badge/Android--REPO-5638ff?style=for-the-badge&logo=material-ui&logoColor=white)](https://github.com/srvraj311/enWrite-Android) [![Android-Repo](https://img.shields.io/badge/WEB--REPO-5638ff?style=for-the-badge&logo=material-ui&logoColor=white)](https://github.com/srvraj311/enWrite-angular)  
 
@@ -85,7 +93,8 @@ A Complete Note taking application for Web/Android based on Firebase
 ### 4. health-io: Healtcare Automation Platform
 ![[image]](https://res.cloudinary.com/srvraj311/image/upload/c_scale,w_88/v1628986650/Screenshot_2021-08-13-09-39-36-141_comsrvraj311smart_health_management_tiob1t.jpg) ![image](https://res.cloudinary.com/srvraj311/image/upload/c_scale,w_88/v1628986650/Screenshot_2021-08-13-09-39-39-725_comsrvraj311smart_health_management_x7lyro.jpg) ![img](https://res.cloudinary.com/srvraj311/image/upload/c_scale,h_190/v1626869096/Screenshot_2021-07-21_173433_wh2jbj.png)  
 A full fleged healthcare management application for enterprise level healt digital healthcare management, Digital prescription and automated tool for Doctors, Hospitals and Customer.
-**The code in my github is not full code. It is kept in a seperate private repository for copyright purpose. If you want access to same, feel free to mail me.**
+**The code in my github is not full code. It is kept in a seperate private repository for copyright purpose. If you want access to same, feel free to mail me.**  
+
 ![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=android) ![React](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)   ![React](https://img.shields.io/badge/-React_Native-05122A?style=flat&logo=react) ![React](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring) ![React](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)
 [![Android-Repo](https://img.shields.io/badge/Android--REPO-5638ff?style=for-the-badge&logo=material-ui&logoColor=white)](https://github.com/srvraj311/project-health.io-Android) [![Android-Repo](https://img.shields.io/badge/DESKTOP--APP--REPO-5638ff?style=for-the-badge&logo=material-ui&logoColor=white)](https://github.com/srvraj311/health-io-hospital) [![Android-Repo](https://img.shields.io/badge/API--REPO-5638ff?style=for-the-badge&logo=material-ui&logoColor=white)](https://github.com/srvraj311/health.io-API) 
 
