@@ -95,7 +95,8 @@ A Complete Note taking application for Web/Android based on Firebase
 A full fleged healthcare management application for enterprise level healt digital healthcare management, Digital prescription and automated tool for Doctors, Hospitals and Customer.
 **The code in my github is not full code. It is kept in a seperate private repository for copyright purpose. If you want access to same, feel free to mail me.**  
 
-![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=android) ![React](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)   ![React](https://img.shields.io/badge/-React_Native-05122A?style=flat&logo=react) ![React](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring) ![React](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)
+![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=android) ![React](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)   ![React](https://img.shields.io/badge/-React_Native-05122A?style=flat&logo=react) ![React](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring) ![React](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)  
+
 [![Android-Repo](https://img.shields.io/badge/Android--REPO-5638ff?style=for-the-badge&logo=material-ui&logoColor=white)](https://github.com/srvraj311/project-health.io-Android) [![Android-Repo](https://img.shields.io/badge/DESKTOP--APP--REPO-5638ff?style=for-the-badge&logo=material-ui&logoColor=white)](https://github.com/srvraj311/health-io-hospital) [![Android-Repo](https://img.shields.io/badge/API--REPO-5638ff?style=for-the-badge&logo=material-ui&logoColor=white)](https://github.com/srvraj311/health.io-API) 
 
 #### **For more projects see my [other repositories.](https://github.com/srvraj311?tab=repositories)**
