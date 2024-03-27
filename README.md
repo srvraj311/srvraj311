@@ -1,5 +1,6 @@
 ![BannerGIF](https://res.cloudinary.com/srvraj311/image/upload/v1698622202/github_xgbnga.jpg)
-![profile count](https://komarev.com/ghpvc/?username=srvraj311&color=green) [![GitHub Srvraj311](https://img.shields.io/github/followers/srvraj311?label=follow&style=social)](https://github.com/srvraj311). 
+![profile count](https://komarev.com/ghpvc/?username=srvraj311&color=green) [![GitHub Srvraj311](https://img.shields.io/github/followers/srvraj311?label=follow&style=social)](https://github.com/srvraj311).   
+
 ![version :27.03.2024](https://img.shields.io/badge/Updated-27%20Apr%20,2024-0703fc?style=for-the-badge) 
 
 ---
