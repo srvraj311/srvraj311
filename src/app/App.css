@@ -1,0 +1,9 @@
+body {
+  height: 100%;
+  width: 100%;
+  overflow-x: hidden;
+  /* background: linear-gradient(#28313B, #485461 ) no-repeat; */
+  /*background: linear-gradient(#16191d, #1b2631) no-repeat;*/
+  background: linear-gradient(#0a192f , #0a192f) no-repeat;
+  color: white;
+}

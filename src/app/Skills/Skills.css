@@ -1,0 +1,61 @@
+.card {
+  background-color: var(--light-bg) !important;
+  height: 320px;
+  width: 80vw;
+  margin: 200px auto;
+  padding: auto;
+  color: var(--color);
+  box-shadow: var(--shadow);
+  border-radius: 0 !important;
+}
+.card-small {
+  background-color: var(--light-bg);
+  border: var(--border);
+  height: 70px;
+  width: 300px;
+  box-shadow: var(--shadow);
+  border-radius: 0;
+  align-items: center;
+}
+.skills {
+  position: relative;
+  top: -35px;
+  left: 50px;
+  width: 300px;
+}
+.title {
+  width: 100%;
+  text-align: center;
+  display: inline-block;
+  margin: auto;
+  font-size: 2.4rem;
+  color: var(--color);
+}
+.skills_holder {
+  margin: 0px 20px 20px;
+  padding-bottom: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 87vw;
+}
+.skill {
+  display: flex;
+  justify-content: center;
+  vertical-align: middle;
+  position: relative;
+  align-items: center;
+  text-align: center;
+  margin: 10px;
+  padding: 3px 10px;
+  height: 30px;
+  min-width: 100px;
+  border: var(--border);
+  box-shadow: var(--shadow-small);
+}
+.icon {
+  position: relative;
+  top: -2px;
+  left: -4px;
+  height: 20px;
+  width: 20px;
+}

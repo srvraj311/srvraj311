@@ -1,0 +1,95 @@
+
+.profile {
+    background-color: var(--light-bg);
+    height: 400px;
+    width: 80vw;
+    margin: 200px auto;
+    box-shadow: var(--shadow);
+    display: flex;
+    flex-direction: column;
+}
+.profile_pic {
+    height: 300px;
+    width: 300px;
+    background-color: var(--light-bg);
+    box-shadow: var(--shadow);
+    border: 1px solid  var(--color);
+    position: relative;
+    top: -220px;
+    left: 50px;
+}
+.profile_pic img {
+    height: 300px;
+    width: 300px;
+    /* border-radius: 50%; */
+}
+.profile_details {
+    display: flex;
+    position: relative;
+    flex-direction: row;
+    color: var(--color);
+    margin-top: -30px;
+}
+.name {
+    position: relative;
+    font-size: 2.4rem;
+    top: 20px;
+    left: 156px;
+}
+.role {
+    position: relative;
+    top: 10px;
+    left: 156px;
+}
+.contact{
+    position: relative;
+    margin-left: 100px;
+    margin-top: 15px;
+    cursor: pointer;
+}
+.greetings {
+    position: relative;
+    top: 180px;
+    left: 120px;
+}
+.contact svg {
+    margin-top: -4px;
+    vertical-align: middle;
+}
+.bio {
+    width: 50vw;
+    position: relative;
+    top: 90px;
+    left: -20px;
+
+}
+.horizontal {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    margin-top: 10px;
+    margin-left: -100px;
+    color: var(--color);
+}
+
+.phone {
+    margin-top: 10px;
+}
+.email {
+    border: 1px solid  var(--color);
+    padding: 0 10px;
+    box-shadow: 4px 4px 0px 1px  var(--color);
+    text-decoration: none;
+    color: var(--color);
+    padding-top: 5px;
+    padding-bottom: 5px;
+    height: 28px !important;
+}
+.phone {
+    height: 28px;
+    margin-top: 10px;
+    border: 1px solid  var(--color);
+    padding: 0 10px;
+    box-shadow: 4px 4px 0px 1px  var(--color);
+    text-decoration: none;
+}
