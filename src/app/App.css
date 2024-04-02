@@ -20,7 +20,7 @@ body {
   display: flex;
   flex-direction: row;
   top: 500px;
-  left: -310px;
+  left: -260px;
   transform: rotate(-90deg);
 }
 .nav a {
