@@ -36,12 +36,13 @@ const DarkModeToggle = () => {
     <button onClick={toggleDarkMode}>
       <Sun className='sun' style={ 
         { 
-        color: isDarkMode ? 'var(--color-secondary)' : 'var(--color)', 
+        color: isDarkMode ? 'var(--color)' : 'black', 
         backgroundColor: isDarkMode ? 'var(--light-bg)' : 'var(--lightest-bg)',
         fontSize: '35px', 
         position: 'fixed',
-        right: -70,
-        top: 0
+        width: '60px',
+        right: isDarkMode ? '-30px' : '50px',
+        top: '-4px'
         }} />
     </button>
   );

@@ -18,17 +18,26 @@ body {
 .nav {
   position: fixed;
   display: flex;
-  flex-direction: row;
-  top: 500px;
-  left: -260px;
-  transform: rotate(-90deg);
+  flex-direction: column;
+  justify-content: space-around;
+  top: -60px;
+  left: 0px; 
+  height: 94vh;
+  max-height: 100vh;
+  width: 60%;
+  max-width: 100px ;
 }
 .nav a {
-  margin: 0 24px;
   color: #64ffda;
-  padding: 5px 10px;
+  padding: auto;
+  width: 100%;
   transition: 0.2s ease-in-out all;
   border-radius: 20px;
+  height: 26px;
+  display: inline-table;
+  align-items: center;
+  text-align: center;
+  transform: rotate(-90deg);
 }
 .nav a selected {
   color: var(--color)
