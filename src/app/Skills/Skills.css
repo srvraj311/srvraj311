@@ -74,3 +74,24 @@
   width: 300px;
   margin-left: 48px;
 }
+
+@media only screen and (max-width: 600px) {
+  .card {
+    width: 80%;
+    margin: 20px auto;
+  }
+  .skill {
+    font-size: 0.7rem;
+    height: 1.4rem;
+  }
+  .category {
+    width: 200px;
+  }
+  .card-small {
+    width: 200px;
+    height: 45px;
+  }
+  .title {
+    font-size: 1.4rem;
+  }
+}

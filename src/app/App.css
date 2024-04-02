@@ -1,19 +1,20 @@
 body {
-  height: 100%;
-  width: 100%;
-  overflow-x: hidden;
-  background: linear-gradient(#0a192f , #0a192f) no-repeat;
+  background: linear-gradient(#0a192f , #0a192f) repeat;
   color: white;
 }
 
 .App {
+  width: 100vw;
   display: flex;
   flex-direction: row;
-  justify-content: space-between;
+  justify-content: center;
 }
 
 .app {
-  width: 100vw;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center
 }
 
 .nav {

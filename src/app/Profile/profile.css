@@ -1,7 +1,7 @@
 .profile {
   background-color: var(--light-bg);
   height: auto;
-  width: 80vw;
+  width: 80%;
   margin: 200px auto;
   box-shadow: var(--shadow);
   display: flex;
@@ -63,7 +63,7 @@
 }
 .bio {
   width: 100%;
-  max-width: 45vw;
+  max-width: 50vw;
   position: relative;
   top: 90px;
   left: 50px !important;
@@ -107,7 +107,7 @@
 
 @media only screen and (max-width: 600px) {
   .profile {
-    width: 80vw;
+    width: 80%;
     flex-direction: column;
   }
   .profile_container {

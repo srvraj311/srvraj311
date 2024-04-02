@@ -2,7 +2,7 @@
   background-color: var(--light-bg) !important;
   height: auto;
   width: 80vw;
-  margin: 200px auto;
+  margin: 100px auto;
   padding: auto;
   color: var(--color);
   box-shadow: var(--shadow);
@@ -160,4 +160,85 @@
 
 .width-small img:hover {
     transform: scale(2) !important;
+}
+
+
+@media only screen and (max-width: 600px) {
+    .project_card .card-small {
+        width: 60%;
+        min-height: 40px;
+        height: auto;
+    }
+
+    .project_card .content .project {
+        margin: 20px;
+        padding: 1.8rem;
+        width: 93%;
+        height: auto;
+    }
+    .project_card .content .project_name {
+        font-size: 0.7rem;
+        height: auto;
+        width: 100%;
+        padding: 0;
+        margin: 0;
+        flex-direction: column;
+        justify-content: flex-start;
+        align-items: center;
+    }
+    .project_logo {
+        width: 36px;
+        height: 36px;
+        position: relative;
+        left: 0;
+    }
+    .project_card .content .project_name img {
+        width: 36px;
+    }
+    .project_card .content .project_link  {
+        margin-left: 0px;
+        padding: 10px 0;
+        font-size: 0.7rem;
+        width: 100%;
+    }
+    .project_date {
+        font-size: 0.7rem;
+    }
+
+    .project_card .content .project_desc {
+        font-size: 0.7rem;
+        margin-top: 0.5rem;
+        margin-left: 0.5rem;
+        text-align: justify;
+    }
+    .project_card .project_screenshots img {
+        height: 200px;
+        margin-left: 0;
+    }
+    .project_card .project_screenshots2 img {
+        height: 100px;
+    }
+    .project_card .project_screenshots2, .project_card .project_screenshots {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+        margin: auto;
+    }
+    .project_card .project_screenshots2 img:hover  {
+        transform: scale(2);
+        cursor: pointer;    
+    }
+
+    .width-small img {
+        height: 170px !important;
+    }
+    
+    .width-small img:hover {
+        transform: scale(1.5) !important;
+    }
+    .project_card .content .project_name img {
+        margin: 0;
+    }
 }

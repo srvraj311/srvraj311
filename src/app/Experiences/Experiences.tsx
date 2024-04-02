@@ -23,7 +23,7 @@ function Experiences() {
               Senior Software Engineer : Persistent Systems Limited
             </span>
           </div>
-          <div style={{ marginLeft: "10px", marginTop: "10px" }}>
+          <div className="project_date" style={{ marginLeft: "10px", marginTop: "10px" }}>
             <i>July 2022 - Present</i>
           </div>
           <div className="project_desc">

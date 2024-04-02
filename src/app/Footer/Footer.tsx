@@ -1,16 +1,17 @@
 import { Play } from "next/font/google";
 import React from "react";
+import './Footer.css';
 import { Behance, Envelope, Github, GooglePlay, Linkedin, Mailbox, Mailbox2, Mailbox2Flag, Phone, PhoneFlip, PhoneVibrate, Playstation } from "react-bootstrap-icons";
 
 function Footer() {
   return (
     <div className="project_card" id="contact">
-      <div className="card-small skills" style={{ width: "27rem" }}>
+      <div className="card-small skills">
         <span className="title">Connect with me</span>
       </div>
 
       <div className="content">
-        <div className="skills_container" style={{display: 'flex', flexDirection: 'row', marginBottom: '20px'}}>
+        <div className="skills_container" >
           <a className="skill" href="https://www.linkedin.com/in/srvraj311" target="_blank">
             <Linkedin /> &nbsp; &nbsp;LinkedIn
           </a>
