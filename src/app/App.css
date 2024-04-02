@@ -137,7 +137,7 @@ body {
     width: 100%;
     flex-direction: row;
     justify-content: space-between;
-    padding: 10px 24px;
+    padding: 18px 24px;
     background: linear-gradient(#0a192f, #0a192f) repeat;
   }
   .topbar .link {
@@ -176,7 +176,7 @@ body {
     position: fixed;
     top: 0px;
     left: 0px;
-    margin-top: 68px;
+    margin-top: 85px;
     display: flex;
     height: 95vh;
     width: 100vw;
