@@ -1,7 +1,7 @@
 .profile {
   background-color: var(--light-bg);
   height: auto;
-  width: 80%;
+  width: 75%;
   margin: 200px auto;
   box-shadow: var(--shadow);
   display: flex;
@@ -63,11 +63,12 @@
 }
 .bio {
   width: 100%;
-  max-width: 50vw;
+  max-width: 40vw;
   position: relative;
   top: 90px;
   left: 50px !important;
   text-align: justify;
+  font-size: 0.8rem;
 }
 .horizontal {
   display: flex;

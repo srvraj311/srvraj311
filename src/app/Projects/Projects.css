@@ -1,7 +1,7 @@
 .project_card {
   background-color: var(--light-bg) !important;
   height: auto;
-  width: 80vw;
+  width: 75%;
   margin: 100px auto;
   padding: auto;
   color: var(--color);
@@ -45,8 +45,8 @@
 }
 
 .project_card .content .project_name {
-  font-size: 1.8rem;
-  margin-top: 24px;
+  font-size: 1.4rem;
+  margin-top: 2rem;
   text-align: start;
   display: flex;
   align-items: center;
@@ -64,7 +64,7 @@
 }
 
 .project_card .content .project_desc {
-  font-size: 1rem;
+  font-size: 0.8rem;
   margin-top: 24px;
   margin-left: 10px;
   text-align: justify;

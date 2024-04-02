@@ -22,22 +22,25 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: center;
+  align-items: center;
   top: -60px;
   left: 0px;
-  height: 94vh;
+  height: 85vh;
   max-height: 100vh;
+  top: 1rem;
   background-color: #0a192f;
 }
 .nav .link {
   color: #64ffda;
-  margin: 56px 20px;
-  padding: 0 10px;
+  margin: 46px 20px;
+  padding: 2.5px 10px;
   transition: 0.2s ease-in-out all;
   border-radius: 20px;
   height: 26px;
   align-items: center;
   text-align: center;
   transform: rotate(-90deg);
+  font-size: 0.9rem;
 }
 .nav .link .selected {
   color: var(--color);
@@ -78,8 +81,8 @@ body {
   width: 44px !important;
   border-radius: 50%;
   position: relative;
-  left: 1.9rem;
-  top: 3rem;
+  left: 0;
+  top: 4rem;
 }
 .toggle:hover {
   height: 44px !important;
@@ -107,7 +110,7 @@ body {
   }
 
   .nav .link {
-    font-size: 0.8rem;
+    font-size: 0.6rem;
     display: flex;
     align-items: center;
     margin: auto;
@@ -140,7 +143,7 @@ body {
   .topbar .link {
     margin: 0px 10px;
     color: var(--color);
-    font-size: 0.8rem;
+    font-size: 0.6rem;
     height: 48px;
     width: 48px;
   }
@@ -153,7 +156,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    font-size: 1.5rem;
+    font-size: 1.2rem;
     margin-right: 40px !important;
     transition: 0.2s ease-in-out all;
   }
@@ -186,7 +189,7 @@ body {
   }
 
   .navbar .link{
-    font-size: 1rem;
+    font-size: rem;
     color: var(--color);
     margin: 10px 0px;
     padding: 10px 0;
