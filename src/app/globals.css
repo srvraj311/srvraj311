@@ -6,16 +6,27 @@
   --foreground-rgb: 0, 0, 0;
   --background-start-rgb: 214, 219, 220;
   --background-end-rgb: 255, 255, 255;
-  --color: #64ffda;
-  --light-bg: #112240;
-  --lightest-bg: #233554;
+  --color: #052f24;
+  /* --color: #bb45ff; */
+  --color-secondary: #e7e7e7;
+  --light-bg: #fbfbfb;
+  --lightest-bg: #b1b1b1;
   --shadow: 12px 12px 0px 1px var(--lightest-bg);
   --shadow-small: 4px 4px 0px 1px var(--lightest-bg);
+  --shadow-small-light: 4px 4px 0px 1px var(--color-secondary);
   --border: 1px solid var(--lightest-bg);
 }
 
 @media (prefers-color-scheme: dark) {
   :root {
+    --color: #64ffda;
+    --color-secondary: #515151;
+    --light-bg: #112240;
+    --lightest-bg: #233554;
+    --shadow: 12px 12px 0px 1px var(--lightest-bg);
+    --shadow-small: 4px 4px 0px 1px var(--lightest-bg);
+    --shadow-small-light: 4px 4px 0px 1px var(--color-secondary);
+    --border: 1px solid var(--lightest-bg);
     --foreground-rgb: 255, 255, 255;
     --background-start-rgb: 0, 0, 0;
     --background-end-rgb: 0, 0, 0;
@@ -33,6 +44,16 @@ body {
     rgb(var(--background-start-rgb));
 }
 
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+html {
+  margin: 0;
+  font-family: -"Calibre","Inter","San Francisco","SF Pro Text",-apple-system,system-ui,sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
 
 
 @layer utilities {

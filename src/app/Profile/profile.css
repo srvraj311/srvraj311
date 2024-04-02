@@ -1,7 +1,7 @@
 
 .profile {
     background-color: var(--light-bg);
-    height: 400px;
+    height: auto;
     width: 80vw;
     margin: 200px auto;
     box-shadow: var(--shadow);
@@ -9,19 +9,18 @@
     flex-direction: column;
 }
 .profile_pic {
-    height: 300px;
+    height: auto;
     width: 300px;
     background-color: var(--light-bg);
-    box-shadow: var(--shadow);
-    border: 1px solid  var(--color);
     position: relative;
-    top: -220px;
-    left: 50px;
+    top: -8rem;
+    left: -40px !important;
 }
 .profile_pic img {
+    box-shadow: var(--shadow);
+    border: 1px solid  var(--color);
     height: 300px;
-    width: 300px;
-    /* border-radius: 50%; */
+    width: 100%;
 }
 .profile_details {
     display: flex;
@@ -29,67 +28,80 @@
     flex-direction: row;
     color: var(--color);
     margin-top: -30px;
+    height: 100%;
 }
 .name {
+    opacity: 1 !important;
     position: relative;
     font-size: 2.4rem;
-    top: 20px;
-    left: 156px;
+    top: 1.2rem;
 }
 .role {
     position: relative;
-    top: 10px;
-    left: 156px;
-}
+    top: 0.6rem;
+    left : 0.2rem;
+}   
 .contact{
     position: relative;
-    margin-left: 100px;
-    margin-top: 15px;
+    margin-top: 2rem;
     cursor: pointer;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    height: 100%;
 }
-.greetings {
-    position: relative;
-    top: 180px;
-    left: 120px;
+.contact a {
+    width: 19rem;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    text-align: center;
 }
 .contact svg {
     margin-top: -4px;
     vertical-align: middle;
 }
 .bio {
-    width: 50vw;
+    width: 100%;
+    max-width: 45vw;
     position: relative;
     top: 90px;
-    left: -20px;
-
+    left: 50px !important;
+    text-align: justify;
 }
 .horizontal {
     display: flex;
     flex-direction: column;
-    position: relative;
     margin-top: 10px;
-    margin-left: -100px;
+    justify-content: center;
     color: var(--color);
+    height: 100%;
 }
 
 .phone {
     margin-top: 10px;
 }
 .email {
-    border: 1px solid  var(--color);
-    padding: 0 10px;
-    box-shadow: 4px 4px 0px 1px  var(--color);
-    text-decoration: none;
-    color: var(--color);
-    padding-top: 5px;
-    padding-bottom: 5px;
-    height: 28px !important;
+    display: flex;
+    justify-content: center;
+    vertical-align: middle;
+    position: relative;
+    align-items: center;
+    text-align: center;
+    padding: 3px 10px;
+    height: 30px;
+    min-width: 100px;
+    border: var(--border) !important;
+    box-shadow: var(--shadow-small) !important;
+    transition: 0.3s;
+}
+.email:hover {
+    background-color: var(--color);
+    color: var(--light-bg);
+    box-shadow: var(--shadow-small-light);
+    cursor: pointer;
 }
 .phone {
-    height: 28px;
-    margin-top: 10px;
-    border: 1px solid  var(--color);
-    padding: 0 10px;
-    box-shadow: 4px 4px 0px 1px  var(--color);
-    text-decoration: none;
+    margin-top: 15px;
 }
