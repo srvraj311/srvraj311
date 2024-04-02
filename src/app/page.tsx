@@ -17,17 +17,8 @@ function App() {
     <Experiences />
     <Projects />
     <Footer />
+    <Navigation />
     </div>
-    
-    // // <div className="App">
-    //   <div className="app" >
-    //     <Profile />
-    //     <Skills />
-    //     <Experiences />
-    //     <Projects />
-    //     <Footer />
-    //   </div> 
-    // // </div>
   );
 }
 

@@ -9,7 +9,7 @@
     margin-bottom: 20px;
 }
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 1180px) {
     #contact .skills_container {
         flex-direction: column;
     }

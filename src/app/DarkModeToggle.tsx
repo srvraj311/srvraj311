@@ -29,7 +29,6 @@ const DarkModeToggle = () => {
     document.documentElement.style.setProperty('--color-secondary', isDarkMode ? '#e7e7e7' : '#515151');
     document.documentElement.style.setProperty('--light-bg', isDarkMode ? '#fbfbfb' : '#112240');
     document.documentElement.style.setProperty('--lightest-bg', isDarkMode ? '#b1b1b1' : '#233554');
-
   };
 
   return (
@@ -37,12 +36,13 @@ const DarkModeToggle = () => {
       <Sun className='sun' style={ 
         { 
         color: isDarkMode ? 'var(--color)' : 'black', 
-        backgroundColor: isDarkMode ? 'var(--light-bg)' : 'var(--lightest-bg)',
+        backgroundColor: isDarkMode ? 'var(--light-bg)' : 'white',
+        transition: '0.2s ease-in-out all',
+        transform: isDarkMode ? 'rotate(180deg)' : 'rotate(0deg)',
         fontSize: '35px', 
-        position: 'fixed',
-        width: '60px',
-        right: isDarkMode ? '-30px' : '50px',
-        top: '-4px'
+        width: '48px',
+        height: '48px',
+        border: '1px solid var(--color)'
         }} />
     </button>
   );

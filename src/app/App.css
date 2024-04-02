@@ -1,5 +1,5 @@
 body {
-  background: linear-gradient(#0a192f , #0a192f) repeat;
+  background: linear-gradient(#0a192f, #0a192f) repeat;
   color: white;
 }
 
@@ -14,38 +14,36 @@ body {
   width: 100%;
   display: flex;
   flex-direction: column;
-  justify-content: center
+  justify-content: center;
 }
 
 .nav {
   position: fixed;
   display: flex;
   flex-direction: column;
-  justify-content: space-around;
+  justify-content: center;
   top: -60px;
-  left: 0px; 
+  left: 0px;
   height: 94vh;
   max-height: 100vh;
-  width: 60%;
-  max-width: 100px ;
+  background-color: #0a192f;
 }
-.nav a {
+.nav .link {
   color: #64ffda;
-  padding: auto;
-  width: 100%;
+  margin: 56px 20px;
+  padding: 0 10px;
   transition: 0.2s ease-in-out all;
   border-radius: 20px;
   height: 26px;
-  display: inline-table;
   align-items: center;
   text-align: center;
   transform: rotate(-90deg);
 }
-.nav a selected {
-  color: var(--color)
+.nav .link .selected {
+  color: var(--color);
 }
-.nav a:hover {
-  color : var(--color);
+.nav .link:hover {
+  color: var(--color);
   opacity: 1;
   box-shadow: 3px 3px transparent, -1em 0 8em #64ffda;
   background-color: #64ffda;
@@ -58,7 +56,7 @@ body {
   background-color: white;
 }
 .sun:hover {
-  color : var(--color);
+  color: var(--color);
   opacity: 1;
   box-shadow: 3px 3px transparent, -1em 0 8em #64ffda;
   background-color: var(--color);
@@ -72,4 +70,133 @@ body {
 
 .nav a {
   scroll-margin-top: 8rem;
+}
+
+
+.toggle {
+  height: 44px !important;
+  width: 44px !important;
+  border-radius: 50%;
+  position: relative;
+  left: 1.9rem;
+  top: 3rem;
+}
+.toggle:hover {
+  height: 44px !important;
+  width: 44px !important;
+  padding: 0;
+  opacity: 1;
+  border-radius: 50%;
+}
+.navbar {
+  display: none;
+}
+
+
+@media only screen and (max-width: 1180px) {
+  .nav {
+    left: 0px;
+    top: 0px;
+    height: 60px;
+    margin: 5px 10px;
+    padding: 0px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+  }
+
+  .nav .link {
+    font-size: 0.8rem;
+    display: flex;
+    align-items: center;
+    margin: auto;
+    transform: rotate(0deg);
+  }
+
+  .sun {
+    left: '0px' !important;
+    bottom: '8rem' !important;
+  }
+  .toggle {
+    height: 44px !important;
+    width: 44px !important;
+    border-radius: 50%;
+    position: relative;
+    left: 1.9rem;
+    top: 0.2rem;
+  
+  }
+  .topbar {
+    position: fixed;
+    top: 0;
+    display: flex;
+    width: 100%;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 10px 24px;
+    background: linear-gradient(#0a192f, #0a192f) repeat;
+  }
+  .topbar .link {
+    margin: 0px 10px;
+    color: var(--color);
+    font-size: 0.8rem;
+    height: 48px;
+    width: 48px;
+  }
+  .menu {
+    height: 48px !important;
+    width: 48px !important;
+    color: #64ffda;
+    border: 1px solid #64ffda;
+    border-radius: 40%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.5rem;
+    margin-right: 40px !important;
+    transition: 0.2s ease-in-out all;
+  }
+  .menu:hover {
+    height: 48px !important;
+    width: 48px !important;
+    padding: 0;
+    opacity: 1;
+    border-radius: 40%;
+    background-color: #64ffda;
+    color: #0a192f !important;
+  }
+  .nav {
+    display: none;
+  }
+  .navbar {
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    margin-top: 68px;
+    display: flex;
+    height: 95vh;
+    width: 100vw;
+    padding: 20px 25px;
+    background-color: var(--light-bg);
+    z-index: 99;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .navbar .link{
+    font-size: 1rem;
+    color: var(--color);
+    margin: 10px 0px;
+    padding: 10px 0;
+    width: 200px;
+    text-align: center;
+    border: 1px solid var(--color);
+    box-shadow: var(--shadow-small);
+  }
+  .three_dots:hover {
+    color: #0a192f !important;
+  }
+
 }
