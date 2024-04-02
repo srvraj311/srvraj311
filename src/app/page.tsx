@@ -11,7 +11,7 @@ import Navigation from "./Navigation";
 
 function App() {
   return (
-    <div style={{display: 'flex', flexDirection: 'column', justifyContent: 'center', alighnItems: 'center'}}>
+    <div style={{display: 'flex', flexDirection: 'column', justifyContent: 'center', alignItems: 'center'}}>
     <Profile />
     <Skills />
     <Experiences />
