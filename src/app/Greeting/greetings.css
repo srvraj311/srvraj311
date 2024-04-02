@@ -14,3 +14,15 @@
     color: var(--color);
     height: 30px;
 }
+
+
+@media only screen and (max-width: 600px) {
+    .greeting {
+        font-size: 1.6rem;
+        text-align: center;
+    }
+    .container {
+        justify-content: center;
+        margin: 20px 0;
+    }
+}

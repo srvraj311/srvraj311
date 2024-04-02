@@ -7,7 +7,7 @@ import { Download, EnvelopeAt, Phone } from "react-bootstrap-icons";
 function Profile() {
   return (
     <div className="profile" id="home">
-      <div style={{ display: "flex", justifyContent: "center", height: '100%'}}>
+      <div className="profile_container" style={{ display: "flex", justifyContent: "center", height: '100%'}}>
         <div className="profile_pic">
           <img
             src="https://res.cloudinary.com/srvraj311/image/upload/v1698606809/va5ommxs3hjrzyfm9bir.jpg"

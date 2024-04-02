@@ -1,107 +1,174 @@
-
 .profile {
-    background-color: var(--light-bg);
-    height: auto;
-    width: 80vw;
-    margin: 200px auto;
-    box-shadow: var(--shadow);
-    display: flex;
-    flex-direction: column;
+  background-color: var(--light-bg);
+  height: auto;
+  width: 80vw;
+  margin: 200px auto;
+  box-shadow: var(--shadow);
+  display: flex;
+  flex-direction: column;
 }
 .profile_pic {
-    height: auto;
-    width: 300px;
-    background-color: var(--light-bg);
-    position: relative;
-    top: -8rem;
-    left: -40px !important;
+  height: auto;
+  width: 300px;
+  background-color: var(--light-bg);
+  position: relative;
+  top: -8rem;
+  left: -40px !important;
 }
 .profile_pic img {
-    box-shadow: var(--shadow);
-    border: 1px solid  var(--color);
-    height: 300px;
-    width: 100%;
+  box-shadow: var(--shadow);
+  border: 1px solid var(--color);
+  height: 300px;
+  width: 100%;
 }
 .profile_details {
-    display: flex;
-    position: relative;
-    flex-direction: row;
-    color: var(--color);
-    margin-top: -30px;
-    height: 100%;
+  display: flex;
+  position: relative;
+  flex-direction: row;
+  color: var(--color);
+  margin-top: -30px;
+  height: 100%;
 }
 .name {
-    opacity: 1 !important;
-    position: relative;
-    font-size: 2.4rem;
-    top: 1.2rem;
+  opacity: 1 !important;
+  position: relative;
+  font-size: 2.4rem;
+  top: 1.2rem;
 }
 .role {
-    position: relative;
-    top: 0.6rem;
-    left : 0.2rem;
-}   
-.contact{
-    position: relative;
-    margin-top: 2rem;
-    cursor: pointer;
-    display: flex;
-    flex-direction: column;
-    align-items: flex-start;
-    height: 100%;
+  position: relative;
+  top: 0.6rem;
+  left: 0.2rem;
+}
+.contact {
+  position: relative;
+  margin-top: 2rem;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  height: 100%;
 }
 .contact a {
-    width: 19rem;
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    justify-content: flex-start;
-    text-align: center;
+  width: 19rem;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  text-align: center;
 }
 .contact svg {
-    margin-top: -4px;
-    vertical-align: middle;
+  margin-top: -4px;
+  vertical-align: middle;
 }
 .bio {
-    width: 100%;
-    max-width: 45vw;
-    position: relative;
-    top: 90px;
-    left: 50px !important;
-    text-align: justify;
+  width: 100%;
+  max-width: 45vw;
+  position: relative;
+  top: 90px;
+  left: 50px !important;
+  text-align: justify;
 }
 .horizontal {
-    display: flex;
-    flex-direction: column;
-    margin-top: 10px;
-    justify-content: center;
-    color: var(--color);
-    height: 100%;
+  display: flex;
+  flex-direction: column;
+  margin-top: 10px;
+  justify-content: center;
+  color: var(--color);
+  height: 100%;
 }
 
 .phone {
-    margin-top: 10px;
+  margin-top: 10px;
 }
 .email {
-    display: flex;
-    justify-content: center;
-    vertical-align: middle;
-    position: relative;
-    align-items: center;
-    text-align: center;
-    padding: 3px 10px;
-    height: 30px;
-    min-width: 100px;
-    border: var(--border) !important;
-    box-shadow: var(--shadow-small) !important;
-    transition: 0.3s;
+  display: flex;
+  justify-content: center;
+  vertical-align: middle;
+  position: relative;
+  align-items: center;
+  text-align: center;
+  padding: 3px 10px;
+  height: 30px;
+  min-width: 100px;
+  border: var(--border) !important;
+  box-shadow: var(--shadow-small) !important;
+  transition: 0.3s;
 }
 .email:hover {
-    background-color: var(--color);
-    color: var(--light-bg);
-    box-shadow: var(--shadow-small-light);
-    cursor: pointer;
+  background-color: var(--color);
+  color: var(--light-bg);
+  box-shadow: var(--shadow-small-light);
+  cursor: pointer;
 }
 .phone {
-    margin-top: 15px;
+  margin-top: 15px;
+}
+
+@media only screen and (max-width: 600px) {
+  .profile {
+    width: 80vw;
+    flex-direction: column;
+  }
+  .profile_container {
+    display: flex;
+    flex-direction: column;
+  }
+  .profile_pic {
+    position: relative;
+    top: 0px;
+    left: 0px !important;
+    width: 100% !important;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .profile_pic img {
+    position: relative;
+    top: -40px;
+    height: 200px;
+    width: 200px;
+  }
+  .name {
+    font-size: 1.4rem;
+    text-align: center;
+  }
+  .role {
+    text-align: center;
+    font-size: 0.7rem;
+    margin-top: 0.4rem;
+  }
+  .email {
+    font-size: 0.7rem;
+    padding: 3px 10px;
+    min-width: 70px;
+    width: 100%;
+  }
+  .contact a {
+    width: 100%;
+    align-items: center;
+    vertical-align: middle;
+    height: 20px;
+  }
+  .contact {
+    align-items: center;
+  }
+  .profile_details {
+    /* margin-top: -70px; */
+    width: 100%;
+    max-width: 80vw !important;
+    font-size: 0.7rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .bio {
+    width: 80%;
+    min-width: none;
+    position: relative;
+    top: 0px;
+    left: 0px !important;
+    margin: 3rem 0;
+  }
 }
