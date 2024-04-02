@@ -94,6 +94,9 @@ body {
 .navbar {
   display: none;
 }
+.topbar {
+  display: none;
+}
 
 
 @media only screen and (max-width: 1180px) {
