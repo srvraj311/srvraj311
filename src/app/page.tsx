@@ -8,6 +8,7 @@ import Experiences from "./Experiences/Experiences";
 import DarkModeToggle from "./DarkModeToggle";
 import Footer from "./Footer/Footer";
 import Navigation from "./Navigation";
+import ShadowPointer from "./ShadowPointer";
 
 function App() {
   const profileRef = useRef<HTMLDivElement>(null);
@@ -21,6 +22,7 @@ function App() {
 
   return (
     <div style={{display: 'flex', flexDirection: 'column', justifyContent: 'center', alignItems: 'center'}}>
+      <ShadowPointer />
     <Profile ref={profileRef} />
     <Skills />
     <Experiences />

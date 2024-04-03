@@ -10,6 +10,7 @@ body {
   justify-content: center;
 }
 
+
 .app {
   width: 100%;
   display: flex;
@@ -71,16 +72,18 @@ body {
   background-color: var(--color);
   color: black;
 }
-
-/* Set the header variable */
-
-/* Set the scroll margin top on all anchor elements by using .anchor class */
-/* Note: I'm setting plus 2.5em so the element has some breathing room on the top */
-
-.nav a {
-  scroll-margin-top: 8rem;
+.shadow {
+  position: absolute;
+  top: -400px;
+  left: -400px;
+  width: 800px;
+  height: 800px;
+  background-image: radial-gradient( rgba(20, 255, 177, 0.08) 0%,  rgba(0, 0, 0, 0) 65% );
+  pointer-events: none;
+  opacity: 1;
+  transition: opacity 0.2s ease-in-out;
+  z-index: 100;
 }
-
 
 .toggle {
   height: 44px !important;
