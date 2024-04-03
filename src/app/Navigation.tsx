@@ -28,12 +28,12 @@ function Navigation({ scrollToProfile }: any) {
             const bottom = rect.bottom;
             if (index == 2 || index == 3) {
               if ((top < 400) && (bottom + 200 > 100)) {
-                setActiveSection(section.id);
+                setActiveSection(() => section.id);
               }  
               return;
             }
             if ((top - 100 < 100) && (bottom + 200 > 100)) {
-              setActiveSection(section.id);
+              setActiveSection(() => section.id);
             }
           }
         }
@@ -52,7 +52,7 @@ function Navigation({ scrollToProfile }: any) {
   const handleNavClick = (sectionId: any) => {
     const section = document.getElementById(sectionId);
     if (section) {
-      setActiveSection(sectionId);
+      setActiveSection(() => sectionId);
       section.scrollIntoView({
         behavior: 'smooth',
       });
