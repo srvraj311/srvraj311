@@ -1,5 +1,6 @@
 import React from "react";
 import "./Projects.css";
+import { BoxArrowUpRight } from "react-bootstrap-icons";
 function Projects() {
   return (
     <div className="project_card" id="projects">
@@ -39,7 +40,7 @@ function Projects() {
               rel="noreferrer"
               className="project_link"
             >
-              Github Repo - API
+              <BoxArrowUpRight/> &nbsp; Github Repo - API
             </a>
             <a
               href="https://github.com/srvraj311/health-io-app"
@@ -47,7 +48,7 @@ function Projects() {
               rel="noreferrer"
               className="project_link"
             >
-              Github Repo - APP
+              <BoxArrowUpRight/> &nbsp; Github Repo - APP
             </a>
             <a
               href="https://github.com/srvraj311/health-io-hospital"
@@ -55,7 +56,7 @@ function Projects() {
               rel="noreferrer"
               className="project_link"
             >
-              Github Repo - WEB
+              <BoxArrowUpRight/> &nbsp; Github Repo - WEB
             </a>
           </div>
           <div className="project_screenshots">
@@ -132,7 +133,7 @@ function Projects() {
               rel="noreferrer"
               className="project_link"
             >
-              Github Repo - Web
+              <BoxArrowUpRight/> &nbsp; Github Repo - Web
             </a>
             <a
               href="https://github.com/srvraj311/enWrite-Android"
@@ -140,7 +141,7 @@ function Projects() {
               rel="noreferrer"
               className="project_link"
             >
-              Github Repo - Android App
+              <BoxArrowUpRight/> &nbsp; Github Repo - Android App
             </a>
           </div>
           <div className="project_screenshots">
@@ -213,7 +214,7 @@ function Projects() {
               rel="noreferrer"
               className="project_link"
             >
-              Play Store - App
+              <BoxArrowUpRight/> &nbsp; Play Store - App
             </a>
             <a
               href="https://github.com/srvraj311/ivory-icon-pack"
@@ -221,7 +222,7 @@ function Projects() {
               rel="noreferrer"
               className="project_link"
             >
-              Github Repo - Android
+              <BoxArrowUpRight/> &nbsp; Github Repo - Android
             </a>
           </div>
           <div className="project_screenshots width-small">
@@ -283,7 +284,7 @@ function Projects() {
               rel="noreferrer"
               className="project_link"
             >
-              Github Repo 
+              <BoxArrowUpRight/> &nbsp; Github Repo 
             </a>
           </div>
           <div className="project_screenshots width-small">
@@ -325,7 +326,7 @@ function Projects() {
               rel="noreferrer"
               className="project_link"
             >
-              Github Repo 
+              <BoxArrowUpRight/> &nbsp; Github Repo 
             </a>
           </div>
           <div className="project_screenshots width-small">
