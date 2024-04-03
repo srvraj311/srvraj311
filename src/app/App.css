@@ -82,7 +82,7 @@ body {
   border-radius: 50%;
   position: relative;
   left: 0;
-  top: 4rem;
+  top: 2rem;
 }
 .toggle:hover {
   height: 44px !important;
@@ -99,7 +99,7 @@ body {
 }
 
 
-@media only screen and (max-width: 1180px) {
+@media only screen and (max-width: 1365px) {
   .nav {
     left: 0px;
     top: 0px;
