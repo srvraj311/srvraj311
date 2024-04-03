@@ -42,8 +42,13 @@ body {
   transform: rotate(-90deg);
   font-size: 0.9rem;
 }
-.nav .link .selected {
+.nav .link.selected {
   color: var(--color);
+  opacity: 1;
+  box-shadow: 3px 3px transparent, -1em 0 8em #64ffda;
+  background-color: #64ffda;
+  color: black;
+  padding: 2.5px 10px;
 }
 .nav .link:hover {
   color: var(--color);

@@ -54,15 +54,17 @@
   min-width: 100px;
   border: var(--border);
   box-shadow: var(--shadow-small);
-  transition: 0.3s;
+  transition: 0.3s ease-in-out all;
 }
 
 .skill:hover {
   background-color: var(--color);
   color: var(--light-bg);
-  box-shadow: var(--shadow-small-light);
+  box-shadow: none;
+  top: 4px;
+  left: 4px;
   cursor: default;
-  transform: scale(1.1);
+  transform: scale(1);
 }
 .icon {
   position: relative;
