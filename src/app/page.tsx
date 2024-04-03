@@ -11,6 +11,33 @@ import Navigation from "./Navigation";
 import ShadowPointer from "./ShadowPointer";
 
 function App() {
+  // useEffect(() => {
+  //   (window as any).pendo.initialize({
+  //     visitor: {
+  //         id: new Date().getTime(),
+  //         device: window.navigator.userAgent,
+  //         platform : window.navigator.platform,
+  //         language: window.navigator.language,
+  //         cookieEnabled: window.navigator.cookieEnabled,
+  //         screenResolution: window.screen.width + 'x' + window.screen.height,
+  //         screenViewed: window.screen.width + 'x' + window.screen.height,
+  //         colorDepth: window.screen.colorDepth,
+  //         onLine: window.navigator.onLine,
+  //         timeZone: Intl.DateTimeFormat().resolvedOptions().timeZone,
+  //         browser: window.navigator.userAgent,
+  //         mediaDevices: window.navigator.mediaDevices,
+  //         history: window.history.length,
+  //         location: window.location.href,
+  //         referrer: document.referrer,
+  //         hardwareConcurrency: window.navigator.hardwareConcurrency,
+  //     },
+  
+  //     account: {
+  //         id: 'deployed',
+  //         accountName: 'deployed',
+  //     }
+  // });
+  // })
   const profileRef = useRef<HTMLDivElement>(null);
 
   // Function to handle scrolling to the profile section
