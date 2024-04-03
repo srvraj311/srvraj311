@@ -55,5 +55,6 @@ const Profile = React.forwardRef(({props, ref}: any) => {
     </div>
   );
 });
+Profile.displayName = 'Profile'; // Set the display name for the component
 
 export default Profile;
