@@ -28,7 +28,7 @@ function Navigation({ scrollToProfile }: any) {
         </a>
       </div>
       <div className="topbar">
-        <a className="link toggle">
+        <a className="link toggle" style={{padding: '0px'}}>
           <DarkModeToggle />
         </a>
         <a
@@ -65,7 +65,7 @@ function Navigation({ scrollToProfile }: any) {
           >
             Skills
           </a>
-          
+
           <a
             className="link"
             onClick={() => {
