@@ -49,7 +49,7 @@ function App() {
 
   return (
     <div style={{display: 'flex', flexDirection: 'column', justifyContent: 'center', alignItems: 'center'}}>
-      <ShadowPointer />
+      {/* <ShadowPointer /> */}
     <Profile ref={profileRef} />
     <Skills />
     <Experiences />
