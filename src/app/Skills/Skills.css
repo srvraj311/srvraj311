@@ -7,6 +7,7 @@
   color: var(--color);
   box-shadow: var(--shadow);
   border-radius: 0 !important;
+  scroll-margin: 100px;
 }
 .card-small {
   background-color: var(--light-bg);
@@ -78,15 +79,33 @@
 
 @media only screen and (max-width: 1365px) {
   .card {
-    width: 80%;
+    width: 90%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
     margin: 20px auto;
+    scroll-margin: 150px;
+  }
+  .card-small {
+    margin: auto;
+  }
+  .skills {
+    left: auto;
+  }
+  .skills_holder {
+    align-items: center;
+    justify-content: center;
+  }
+  .category {
+    margin-left: auto;
+    margin-right: auto;
   }
   .skill {
     font-size: 0.7rem;
     height: 1.4rem;
   }
   .category {
-    width: 200px;
+    width: 80%;
   }
   .card-small {
     width: 200px;

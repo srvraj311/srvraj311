@@ -2,10 +2,15 @@
   background-color: var(--light-bg);
   height: auto;
   width: 75%;
-  margin: 200px auto;
+  margin: auto;
   box-shadow: var(--shadow);
   display: flex;
   flex-direction: column;
+  align-self: start;
+  position: relative;
+  top: 200px;
+  margin-bottom: 300px;
+  scroll-margin: 200px;
 }
 .profile_pic {
   height: auto;
@@ -108,7 +113,7 @@
 
 @media only screen and (max-width: 1365px) {
   .profile {
-    width: 80%;
+    width: 90%;
     flex-direction: column;
   }
   .profile_container {
@@ -165,12 +170,12 @@
     align-items: center;
   }
   .bio {
-    max-width: 55vw;
-    width: 80%;
+    max-width: 70vw;
+    width: 100%;
     min-width: none;
     position: relative;
     top: 0px;
-    left: 0px !important;
+    left: 25px !important;
     margin: 3rem 0;
     font-size: 0.7rem;
   }

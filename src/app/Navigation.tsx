@@ -3,7 +3,7 @@ import React, { useState } from "react";
 import DarkModeToggle from "./DarkModeToggle";
 import { ThreeDotsVertical } from "react-bootstrap-icons";
 
-function Navigation() {
+function Navigation({ scrollToProfile }: any) {
   const [nav, setNav] = useState(false);
   return (
     <>
@@ -45,11 +45,12 @@ function Navigation() {
         </a>
       </div>
       {nav && (
-        <div className="navbar">
+        <nav className="navbar">
           <a
             className="link"
-            onClick={() => {
+            onClick={(e) => {
               setNav((prev) => !prev);
+              scrollToProfile();
             }}
             href="#home"
           >
@@ -63,6 +64,16 @@ function Navigation() {
             href="#skills"
           >
             Skills
+          </a>
+          
+          <a
+            className="link"
+            onClick={() => {
+              setNav((prev) => !prev);
+            }}
+            href="#experience"
+          >
+            Experience
           </a>
           <a
             className="link"
@@ -78,20 +89,11 @@ function Navigation() {
             onClick={() => {
               setNav((prev) => !prev);
             }}
-            href="#experience"
-          >
-            Experience
-          </a>
-          <a
-            className="link"
-            onClick={() => {
-              setNav((prev) => !prev);
-            }}
             href="#contact"
           >
             Contact
           </a>
-        </div>
+        </nav>
       )}
     </>
   );

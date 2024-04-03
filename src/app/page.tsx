@@ -1,5 +1,5 @@
 "use client";
-import React, { useEffect, useState } from "react";
+import React, { useEffect, useRef, useState } from "react";
 import "./App.css";
 import Profile from "./Profile/Profile";
 import Skills from "./Skills/Skills";
@@ -10,14 +10,23 @@ import Footer from "./Footer/Footer";
 import Navigation from "./Navigation";
 
 function App() {
+  const profileRef = useRef<HTMLDivElement>(null);
+
+  // Function to handle scrolling to the profile section
+  const scrollToProfile = () => {
+    if (profileRef.current) {
+      profileRef.current.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }
+  };
+
   return (
     <div style={{display: 'flex', flexDirection: 'column', justifyContent: 'center', alignItems: 'center'}}>
-    <Profile />
+    <Profile ref={profileRef} />
     <Skills />
     <Experiences />
     <Projects />
     <Footer />
-    <Navigation />
+    <Navigation scrollToProfile={scrollToProfile} />
     </div>
   );
 }

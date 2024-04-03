@@ -270,7 +270,7 @@ function Projects() {
               className="project_link"
               style={{ marginLeft: "10px", padding: "24px" }}
             >
-              Seat Allocation System - Codin Problem
+              Seat Allocation System - Coding Problem
             </span>
           </div>
           <div className="project_desc">
