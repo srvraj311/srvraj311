@@ -77,7 +77,7 @@ function Experiences() {
             </p>
           </div>
           <div className="project_desc"><h1><b>Achievements</b></h1></div>
-          <div className="project_links">
+          <div className="project_links" style={{ marginBottom: "40px" }}>
             <a
               href="https://res.cloudinary.com/srvraj311/image/upload/v1712005442/Mail_-_Sourabh_._-_Outlook_page-0001_cprji7.jpg"
               target="_blank"
@@ -144,7 +144,7 @@ function Experiences() {
             </a>
           </div>
         </div>
-        <div className="project">
+        <div className="project" >
           <div className="project_name">
             <img
               className="project_logo"
@@ -176,7 +176,7 @@ function Experiences() {
             </p>
           </div>
           <div className="project_desc"><h1><b>Achievements</b></h1></div>
-          <div className="project_links">
+          <div className="project_links" style={{ marginBottom: "40px" }}>
           <a
               href="https://www.credly.com/badges/e152bff9-5de2-46d5-9e58-c897436f23cf?source=linked_in_profile"
               target="_blank"
@@ -212,7 +212,7 @@ function Experiences() {
           <div style={{ marginLeft: "10px", marginTop: "10px" }}>
             <i>August 2021 - November 2021</i>
           </div>
-          <div className="project_desc">
+          <div className="project_desc" style={{ marginBottom: "40px" }}>
             <p>
               ● Learned to write Clean, Readable, and Scalable Code in a short period of time.
             </p>

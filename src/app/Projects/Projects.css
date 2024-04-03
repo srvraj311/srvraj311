@@ -209,7 +209,7 @@
         font-size: 0.7rem;
         margin-top: 0.5rem;
         margin-left: 0.5rem;
-        text-align: justify;
+        text-align: left;
     }
     .project_card .project_screenshots img {
         height: 200px;
