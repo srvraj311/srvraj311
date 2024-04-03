@@ -4,7 +4,7 @@ import "./profile.css";
 import Greeting from "../Greeting/Greeting";
 import { Download, EnvelopeAt, Phone } from "react-bootstrap-icons";
 
-const Profile = React.forwardRef(({props, ref}: any) => {
+const Profile = React.forwardRef(({ref}: any) => {
   return (
     <div className="profile" id="home" ref={ref}>
       <div className="profile_container" style={{ display: "flex", justifyContent: "center", height: '100%'}}>
