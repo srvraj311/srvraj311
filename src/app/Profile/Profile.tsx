@@ -64,7 +64,7 @@ const Profile = React.forwardRef(({ ref }: any) => {
               I am a <b>Full Stack Developer</b> with a passion for creating web
               and mobile applications. I am a quick learner who likes to take on
               new challenges. I constantly seek opprtunities to learn and grow
-              as a respoinsible and innovative developer.
+              as a responsible and innovative developer.
             </div>
             <div className="skills_container">
               <a
