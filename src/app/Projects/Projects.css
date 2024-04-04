@@ -50,7 +50,7 @@
 }
 
 .project_card .content .project_name {
-  font-size: 1.4rem;
+  font-weight: bold;
   margin-top: 0rem;
   text-align: start;
   display: flex;
@@ -93,14 +93,13 @@
   margin: 10px;
   padding: 3px 10px;
   height: 30px;
-  font-size: 0.9rem;
+  font-size: 1rem;
   min-width: 100px;
   border: var(--border);
   box-shadow: var(--shadow-small);
   margin-top: 16px;
   text-decoration: none;
   transition: transform 0.3s ease; 
-  font-size: 0.8rem;
 }
 .project_card .project_link:nth-child(1) {
   margin-left: 0;
@@ -221,6 +220,9 @@
         padding: 10px 0;
         font-size: 0.7rem;
         width: 100%;
+    }
+    .project_name .project_link {
+      font-size: 0.9rem !important;
     }
     .project_date {
         font-size: 0.7rem;
