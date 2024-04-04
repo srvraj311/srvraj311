@@ -8,6 +8,31 @@ export default function Skills() {
       <div className="card-small skills">
         <span className="title">My Skills</span>
       </div>
+      <div className="skills_holder">
+        {skillArr.Frontend.map((skill: any, index: number) => {
+          return (
+            <React.Fragment key={index}>
+              <span className="skill" key={skill.name}>
+                <img
+                  className="icon"
+                  alt={skill.name}
+                  src={skill.iconUrl}
+                ></img>
+                &nbsp;{skill.name}
+              </span>
+            </React.Fragment>
+          );
+        })}
+      </div>
+    </div>
+  );
+
+  {
+    /*       
+    <div className="card" id="skills">
+      <div className="card-small skills">
+        <span className="title">My Skills</span>
+      </div>
       <div className="skill category">Frontend</div>
       <div className="skills_holder">
         {skillArr.Frontend.map((skill: any, index: number) => {
@@ -98,5 +123,6 @@ export default function Skills() {
         })}
       </div>
     </div>
-  );
+  ); */
+  }
 }

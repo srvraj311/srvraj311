@@ -27,57 +27,16 @@ function Experiences() {
             <i>July 2022 - Present</i>
           </div>
           <div className="project_desc">
-            <h1>
-              <b>Healthcare Optimization Platform for Client </b>
-              <i> April 2023 - Present </i>:
-            </h1>
-            <br />
-            <p>
-              ● UI development, collaborated with clients, and presented
-              compelling mockups to shape new features in application.
-            </p>
-            <p>
-              ● Applied expertise in Angular, agGrid, Angular Material, and
-              go-js for quality delivery and performance enhancement.
-            </p>
-            <p>
-              ● Actively contributed to manual and automated QA testing in later
-              sprints using jasmine and karma.
-            </p>
-            <p>
-              ● Conducted training on Jasmine and Karma for the UI team to
-              enhance test coverage in code.
-            </p>
-            <p>
-              ● Helped in migrating codebase to newer versions (Angular and
-              agGrid) in November 2023.
-            </p>
+              <b>Healthcare Optimization Platform for Client </b> <br />
+              <i> April 2023 - Present </i>
           </div>
 
           <div className="project_desc">
-            <h1>
-              <b>Healthcare Survey Platform for Client </b>
-              <i> July 2022 - April 2023 </i>:
-            </h1>
-            <br />
-            <p>
-              ● Pivotal UI Developer for a cutting-edge Survey Designing and
-              Delivering software.
-            </p>
-            <p>
-              ● Collaborated on server-side (Spring Boot) and database (MongoDB,
-              SQL) components.
-            </p>
-            <p>
-              ● Conducted thorough analyses for high-impact feature development.
-            </p>
-            <p>
-              ● Played a crucial role in two major software releases, earning
-              Bravo Awards for outstanding contributions.
-            </p>
+              <b>Healthcare Survey Platform for Client </b> <br />
+              <i> July 2022 - April 2023 </i>
           </div>
           <div className="project_desc"><h1><b>Achievements</b></h1></div>
-          <div className="project_links" style={{ marginBottom: "40px" }}>
+          <div className="project_links" style={{ marginBottom: "0px" }}>
             <a
               href="https://res.cloudinary.com/srvraj311/image/upload/v1712005442/Mail_-_Sourabh_._-_Outlook_page-0001_cprji7.jpg"
               target="_blank"
@@ -86,30 +45,7 @@ function Experiences() {
             >
               <BoxArrowUpRight/> &nbsp; Top Talent Recongnition in FY23
             </a>
-            <a
-              href="https://res.cloudinary.com/srvraj311/image/upload/v1712004994/1702505829887_jgpdiw.jpg"
-              target="_blank"
-              rel="noreferrer"
-              className="project_link"
-            >
-              <BoxArrowUpRight/> &nbsp; High Five - Team Awards
-            </a>
-            <a
-              href="https://res.cloudinary.com/srvraj311/image/upload/v1712005305/thumbnail_REQ-089931_49889_fh6bni.png"
-              target="_blank"
-              rel="noreferrer"
-              className="project_link"
-            >
-              <BoxArrowUpRight/> &nbsp; Bravo Team Awards
-            </a>
-            <a
-              href="https://res.cloudinary.com/srvraj311/image/upload/v1712005301/thumbnail_REQ-079959_49889_bcarmf.png"
-              target="_blank"
-              rel="noreferrer"
-              className="project_link"
-            >
-             <BoxArrowUpRight/> &nbsp; Bravo Team Awards
-            </a>
+
             <a
               href="https://res.cloudinary.com/srvraj311/image/upload/v1712005301/thumbnail_REQ-075665_49889_mlmoun.png"
               target="_blank"
@@ -162,21 +98,11 @@ function Experiences() {
             <i>February 2022 - July 2022</i>
           </div>
           <div className="project_desc">
-            <p>
-              ● Received trainings in Javascript, Node, Mongo, Angular and SQL
-              for UI specific Development
-            </p>
-            <p>
-              ● Trained in cloud technologies like Azure/AWS Fundamentals and
-              DevOps tools like Docker and Kubernetes
-            </p>
-            <p>
-              ● Worked on several assignments and scored 100% marks in final
-              assessment of training.
-            </p>
+              <b>Hot Desking Platform</b> <br/>
+              <i> May 2022 - July 2022 </i>
           </div>
           <div className="project_desc"><h1><b>Achievements</b></h1></div>
-          <div className="project_links" style={{ marginBottom: "40px" }}>
+          <div className="project_links" style={{ marginBottom: "0px" }}>
           <a
               href="https://www.credly.com/badges/e152bff9-5de2-46d5-9e58-c897436f23cf?source=linked_in_profile"
               target="_blank"
@@ -212,18 +138,10 @@ function Experiences() {
           <div style={{ marginLeft: "10px", marginTop: "10px" }}>
             <i>August 2021 - November 2021</i>
           </div>
-          <div className="project_desc" style={{ marginBottom: "40px" }}>
-            <p>
-              ● Learned to write Clean, Readable, and Scalable Code in a short period of time.
-            </p>
-            <p>
-              ● Implemented new user interface designs and features for application enhancing user experience
-            </p>
-            <p>
-              ● Was appreciated for fixing all client bugs in a concise time.
-            </p>
+          <div className="project_desc">
+              <b>Fretbox Hostel Management Android Application </b> <br />
+              <i> August 2021 - Nonvember 2021 </i>
           </div>
-          
         </div>
       </div>
     </div>

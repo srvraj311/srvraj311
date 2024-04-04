@@ -1,22 +1,26 @@
 .card {
-  background-color: var(--light-bg) !important;
+  background: var(--light-bg) !important;
   height: auto;
   width: 75%;
   margin: 200px auto;
   padding: auto;
   color: var(--color);
   box-shadow: var(--shadow);
-  border-radius: 0 !important;
   scroll-margin: 100px;
+  border-radius: 10px;
+  margin-bottom: 100px !important;
 }
 .card-small {
-  background-color: var(--light-bg);
+  background: var(--light-bg);
   border: var(--border);
-  height: 70px;
-  width: 300px;
+  height: 60px;
+  width: 100px;
   box-shadow: var(--shadow);
   border-radius: 0;
+  border-radius: 10px;
   align-items: center;
+  margin-left: 10px !important;
+  text-align: start;
 }
 .skills {
   position: relative;
@@ -27,11 +31,12 @@
 }
 .title {
   width: 100%;
-  text-align: center;
+  margin-left: 18px !important;
+  text-align: left;
   display: inline-block;
   margin: auto;
-  font-size: 2rem;
   color: var(--color);
+  font-size: 1.2rem;
 }
 .skills_holder {
   margin: 0px 20px 20px;
@@ -53,18 +58,22 @@
   height: 30px;
   min-width: 100px;
   border: var(--border);
+  border-radius: 10px;
   box-shadow: var(--shadow-small);
-  transition: 0.3s ease-in-out all;
+  /* background: var(--button-bg); */
+  font-size: 0.8rem;
+}
+
+
+.profile .skill {
+  font-size: 0.8rem;
 }
 
 .skill:hover {
   background-color: var(--color);
-  color: var(--light-bg);
-  box-shadow: none;
-  top: 4px;
-  left: 4px;
+  color: var(--dark-color);
   cursor: default;
-  transform: scale(1);
+  cursor: pointer;
 }
 .icon {
   position: relative;
@@ -76,7 +85,7 @@
 .category {
   margin: 20px;
   width: 300px;
-  margin-left: 48px;
+  margin-left: 48px;  
 }
 
 @media only screen and (max-width: 1365px) {
@@ -89,7 +98,7 @@
     scroll-margin: 150px;
   }
   .card-small {
-    margin: auto;
+    margin: auto !important;
   }
   .skills {
     left: auto;

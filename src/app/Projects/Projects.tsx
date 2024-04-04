@@ -127,6 +127,14 @@ function Projects() {
             Responsive Design
           </div>
           <div className="project_links">
+          <a
+              href="https://enwrite-web.web.app/"
+              target="_blank"
+              rel="noreferrer"
+              className="project_link"
+            >
+              <BoxArrowUpRight/> &nbsp; View Project
+            </a>
             <a
               href="https://github.com/srvraj311/enWrite-angular"
               target="_blank"

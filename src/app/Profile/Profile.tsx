@@ -2,12 +2,25 @@
 import React from "react";
 import "./profile.css";
 import Greeting from "../Greeting/Greeting";
-import { Download, EnvelopeAt, Phone } from "react-bootstrap-icons";
+import {
+  Behance,
+  Download,
+  Envelope,
+  EnvelopeAt,
+  Github,
+  GooglePlay,
+  Linkedin,
+  Phone,
+} from "react-bootstrap-icons";
+import Footer from "../Footer/Footer";
 
-const Profile = React.forwardRef(({ref}: any) => {
+const Profile = React.forwardRef(({ ref }: any) => {
   return (
-    <div className="profile" id="home" ref={ref}>
-      <div className="profile_container" style={{ display: "flex", justifyContent: "center", height: '100%'}}>
+    <section className="profile" id="home" ref={ref}>
+      <div
+        className="profile_container"
+        style={{ display: "flex", justifyContent: "center", height: "100%" }}
+      >
         <div className="profile_pic">
           <img
             src="https://res.cloudinary.com/srvraj311/image/upload/v1698606809/va5ommxs3hjrzyfm9bir.jpg"
@@ -26,35 +39,79 @@ const Profile = React.forwardRef(({ref}: any) => {
               <a href="tel://+919142865908" className="email phone">
                 <Phone /> &nbsp; +91 91428 65908
               </a>
-              <a href="https://docs.google.com/document/d/1pwVMw1AFa5WONMjgiv9HB2F0ev5c-zQAvy8PteS8zAI/edit?usp=sharing" target="_blank" className="email phone">
-                <Download/>&nbsp; Download my Resume
+              <a
+                href="https://docs.google.com/document/d/1pwVMw1AFa5WONMjgiv9HB2F0ev5c-zQAvy8PteS8zAI/edit?usp=sharing"
+                target="_blank"
+                className="email phone"
+              >
+                <Download />
+                &nbsp; Download my Resume
               </a>
             </div>
           </div>
         </div>
-        <div style={{display: 'flex', justifyContent: 'center', marginTop: '10px', flexDirection: 'column'}}>
+        <div
+          style={{
+            display: "flex",
+            justifyContent: "center",
+            marginTop: "10px",
+            flexDirection: "column",
+          }}
+        >
           <Greeting />
           <div className="profile_details">
             <div className="bio">
-              Results-oriented Software Engineer at Persistent Systems,
-              specializing in Full Stack Web Development and Android
-              Development. Proven track record as a pivotal UI (Angular)
-              Developer for cutting-edge healthcare software projects.
-              Contributed significantly to the success of Survey Designing and
-              Delivering software. Recognized with Top Talent Recognition in
-              FY23 for exceptional technical work on the Healthcare Optimization
-              Platform. Adept at problem-solving, I thrive in dynamic
-              environments, delivering high-quality solutions through
-              collaboration and innovation. Seeking opportunities to leverage my
-              skills in creating intuitive real-life applications and further
-              excel in software development.
+              I am a <b>Full Stack Developer</b> with a passion for creating web
+              and mobile applications. I am a quick learner who likes to take on
+              new challenges. I constantly seek opprtunities to learn and grow
+              as a respoinsible and innovative developer.
+            </div>
+            <div className="skills_container">
+              <a
+                className="skill"
+                href="https://www.linkedin.com/in/srvraj311"
+                target="_blank"
+              >
+                <Linkedin /> &nbsp; &nbsp;LinkedIn
+              </a>
+              <a
+                className="skill"
+                href="https://www.github.com/srvraj311"
+                target="_blank"
+              >
+                <Github /> &nbsp; &nbsp;Github
+              </a>
+              <a
+                className="skill"
+                href="mailto://sourabhraj311@gmail.com"
+                target="_blank"
+              >
+                <Envelope /> &nbsp; &nbsp;E-Mail
+              </a>
+              <a className="skill" href="tel://+91 9142865908" target="_blank">
+                <Phone /> &nbsp; Phone
+              </a>
+              <a
+                className="skill"
+                href="https://www.behance.net/sourabhraj"
+                target="_blank"
+              >
+                <Behance /> &nbsp; &nbsp;Behance
+              </a>
+              <a
+                className="skill"
+                href="https://play.google.com/store/apps/dev?id=8639471483097231208"
+                target="_blank"
+              >
+                <GooglePlay /> &nbsp; &nbsp; Play Store
+              </a>
             </div>
           </div>
         </div>
       </div>
-    </div>
+    </section>
   );
 });
-Profile.displayName = 'Profile'; // Set the display name for the component
+Profile.displayName = "Profile"; // Set the display name for the component
 
 export default Profile;

@@ -3,16 +3,10 @@
     cursor: pointer;
 }
 
-#contact .skills_container {
-    display: flex;
-    flex-direction: row;
-    margin-bottom: 20px;
-}
-
 @media only screen and (max-width: 1365px) {
-    #contact .skills_container {
+    /* #contact .skills_container {
         flex-direction: column;
-    }
+    } */
     #contact .title {
         font-size: 1.2rem !important;
     }

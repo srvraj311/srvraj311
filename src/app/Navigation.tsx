@@ -12,13 +12,13 @@ function Navigation({ scrollToProfile }: any) {
       const skills = document.getElementById('skills');
       const projects = document.getElementById('projects');
       const experience = document.getElementById('experience');
-      const contact = document.getElementById('contact');
+      // const contact = document.getElementById('contact');
 
-      if (!home || !projects || !experience || !contact || !skills) {
+      if (!home || !projects || !experience ||  !skills) {
         return;
       }
 
-      const sections = [home, skills, experience, projects, contact];
+      const sections = [home, skills, experience, projects ];
 
       sections.forEach((section , index) => {
         if (section) {
@@ -75,9 +75,6 @@ function Navigation({ scrollToProfile }: any) {
         </a>
         <a className={['link' , activeSection === 'projects' ? 'selected' : ''].join(' ')}  onClick={() => handleNavClick('projects')}>
           Projects
-        </a>
-        <a className={['link' , activeSection === 'contact' ? 'selected' : ''].join(' ')}  onClick={() => handleNavClick('contact')}>
-          Contact
         </a>
       </div>
       <div className="topbar">
@@ -136,15 +133,6 @@ function Navigation({ scrollToProfile }: any) {
             href="#projects"
           >
             Projects
-          </a>
-          <a
-            className={['link' , activeSection === 'contact' ? 'selected' : ''].join(' ')}
-            onClick={() => {
-              setNav((prev) => !prev);
-            }}
-            href="#contact"
-          >
-            Contact
           </a>
         </nav>
       )}

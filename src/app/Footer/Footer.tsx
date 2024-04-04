@@ -6,11 +6,9 @@ import { Behance, Envelope, Github, GooglePlay, Linkedin, Mailbox, Mailbox2, Mai
 function Footer() {
   return (
     <div className="project_card" id="contact">
-      <div className="card-small skills">
-        <span className="title">Connect with me</span>
-      </div>
-
+  
       <div className="content">
+        <p> &copy; Sourabh 2024</p>
         <div className="skills_container" >
           <a className="skill" href="https://www.linkedin.com/in/srvraj311" target="_blank">
             <Linkedin /> &nbsp; &nbsp;LinkedIn
