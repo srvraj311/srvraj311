@@ -187,6 +187,7 @@ body {
     display: none;
   }
   .navbar {
+    align-self: center;
     position: fixed;
     top: 0;
     left: 0px;
@@ -198,10 +199,10 @@ body {
     background: var(--page-bg);
     z-index: 99;
     flex-direction: column;
-    justify-content: center;
+    justify-content: flex-start;
+    padding-top: 30%;
     align-items: center;
     overflow: hidden;
-
   }
 
   .navbar .link{

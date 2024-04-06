@@ -94,7 +94,7 @@ function Experiences() {
               Software Engineering Intern : Persistent Systems Limited
             </span>
           </div>
-          <div style={{ marginLeft: "10px", marginTop: "10px" }}>
+          <div className="project_date" style={{ marginLeft: "10px", marginTop: "10px" }}>
             <i>February 2022 - July 2022</i>
           </div>
           <div className="project_desc">
@@ -135,7 +135,7 @@ function Experiences() {
               Android Developer Intern : BinaryDots - Fretbox
             </span>
           </div>
-          <div style={{ marginLeft: "10px", marginTop: "10px" }}>
+          <div className="project_date" style={{ marginLeft: "10px", marginTop: "10px" }}>
             <i>August 2021 - November 2021</i>
           </div>
           <div className="project_desc">

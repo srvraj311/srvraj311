@@ -11,7 +11,7 @@
   margin-bottom: 100px !important;
 }
 .card-small {
-  background: var(--light-bg);
+  background: var(--dark-color);
   border: var(--border);
   height: 60px;
   width: 100px;

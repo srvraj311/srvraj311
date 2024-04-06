@@ -59,50 +59,6 @@ function Projects() {
               <BoxArrowUpRight/> &nbsp; Github Repo - WEB
             </a>
           </div>
-          <div className="project_screenshots">
-            <img
-              className="project_screenshot"
-              src="https://res.cloudinary.com/srvraj311/image/upload/v1711998404/Screenshot_1711998198_xuvdt4.png"
-              alt="screenshot"
-            />
-            <img
-              className="project_screenshot"
-              src="https://res.cloudinary.com/srvraj311/image/upload/v1711998404/Screenshot_1711998081_xvjyak.png"
-              alt="screenshot"
-            />
-            <img
-              className="project_screenshot"
-              src="https://res.cloudinary.com/srvraj311/image/upload/v1711998404/Screenshot_1711998078_xq0u6d.png"
-              alt="screenshot"
-            />
-            <img
-              className="project_screenshot"
-              src="https://res.cloudinary.com/srvraj311/image/upload/v1711998403/Screenshot_1711998065_wwhycr.png"
-              alt="screenshot"
-            />
-          </div>
-          <div className="project_screenshots2">
-            <img
-              className="project_screenshot"
-              src="https://res.cloudinary.com/srvraj311/image/upload/v1653310436/Screenshot_2022-05-23_at_6.21.35_PM_pdxxht.png"
-              alt="screenshot"
-            />
-            <img
-              className="project_screenshot"
-              src="https://res.cloudinary.com/srvraj311/image/upload/v1653310427/Screenshot_2022-05-23_at_6.21.39_PM_ipurvs.png"
-              alt="screenshot"
-            />
-            <img
-              className="project_screenshot"
-              src="https://res.cloudinary.com/srvraj311/image/upload/v1652737204/Screenshot_2022-05-17_at_2.56.35_AM_tjwnhi.png"
-              alt="screenshot"
-            />
-            <img
-              className="project_screenshot"
-              src="https://res.cloudinary.com/srvraj311/image/upload/v1652738402/Screenshot_2022-05-17_at_3.29.53_AM_qnib20.png"
-              alt="screenshot"
-            />
-          </div>
         </div>
 
         {/* Second Project */}
@@ -152,45 +108,6 @@ function Projects() {
               <BoxArrowUpRight/> &nbsp; Github Repo - Android App
             </a>
           </div>
-          <div className="project_screenshots">
-            <img
-              className="project_screenshot"
-              src="https://res.cloudinary.com/srvraj311/image/upload/v1629315800/Screenshot_2021-08-18-22-23-13-281_com.srvraj311_x6f5ga.jpg"
-              alt="screenshot"
-            />
-            <img
-              className="project_screenshot"
-              src="https://res.cloudinary.com/srvraj311/image/upload/v1630057072/WhatsApp_Image_2021-08-27_at_3.05.49_PM_jwjdme.jpg"
-              alt="screenshot"
-            />
-            <img
-              className="project_screenshot"
-              src="https://res.cloudinary.com/srvraj311/image/upload/v1629315800/Screenshot_2021-08-18-22-23-03-322_com.srvraj311_tqf8kk.jpg"
-              alt="screenshot"
-            />
-          </div>
-          <div className="project_screenshots2">
-            <img
-              className="project_screenshot"
-              src="https://res.cloudinary.com/srvraj311/image/upload/v1651576417/Screenshot_2022-05-03_at_4.41.12_PM_t4lf8o.png"
-              alt="screenshot"
-            />
-            {/* <img
-              className="project_screenshot"
-              src="https://res.cloudinary.com/srvraj311/image/upload/v1651576414/Screenshot_2022-05-03_at_4.41.21_PM_jge05k.png"
-              alt="screenshot"
-            /> */}
-            <img
-              className="project_screenshot"
-              src="https://res.cloudinary.com/srvraj311/image/upload/v1651576421/Screenshot_2022-05-03_at_4.41.43_PM_soo1bk.png"
-              alt="screenshot"
-            />
-            <img
-              className="project_screenshot"
-              src="https://res.cloudinary.com/srvraj311/image/upload/v1651576406/Screenshot_2022-05-03_at_4.42.00_PM_vx2op9.png"
-              alt="screenshot"
-            />
-          </div>
         </div>
 
         {/* Third Project */}
@@ -233,38 +150,6 @@ function Projects() {
               <BoxArrowUpRight/> &nbsp; Github Repo - Android
             </a>
           </div>
-          <div className="project_screenshots width-small">
-            <img
-              className="project_screenshot"
-              src="https://res.cloudinary.com/srvraj311/image/upload/v1712001310/unnamed_5_syxwis.webp"
-              alt="screenshot"
-            />
-            <img
-              className="project_screenshot"
-              src="https://res.cloudinary.com/srvraj311/image/upload/v1712001311/unnamed_4_vvh11n.webp"
-              alt="screenshot"
-            />
-            <img
-              className="project_screenshot"
-              src="https://res.cloudinary.com/srvraj311/image/upload/v1712001311/unnamed_2_dh386v.webp"
-              alt="screenshot"
-            />
-            <img
-              className="project_screenshot"
-              src="https://res.cloudinary.com/srvraj311/image/upload/v1712001312/unnamed_1_r55fse.webp"
-              alt="screenshot"
-            />
-            <img
-              className="project_screenshot"
-              src="https://res.cloudinary.com/srvraj311/image/upload/v1712001313/unnamed_3_xyx1uc.webp"
-              alt="screenshot"
-            />
-             <img
-              className="project_screenshot"
-              src="https://res.cloudinary.com/srvraj311/image/upload/v1712001590/unnamed_7_rytyjx.webp"
-              alt="screenshot"
-            />
-          </div>
         </div>
 
         {/* Fourth Project */}
@@ -294,18 +179,6 @@ function Projects() {
             >
               <BoxArrowUpRight/> &nbsp; Github Repo 
             </a>
-          </div>
-          <div className="project_screenshots width-small">
-            <img
-              className="project_screenshot"
-              src="https://res.cloudinary.com/srvraj311/image/upload/v1649563425/Screenshot_2022-04-10_at_9.32.32_AM_q5oswh.png"
-              alt="screenshot"
-            />
-            <img
-              className="project_screenshot"
-              src="https://res.cloudinary.com/srvraj311/image/upload/v1649563429/Screenshot_2022-04-10_at_9.32.47_AM_vzxnch.png"
-              alt="screenshot"
-            />
           </div>
         </div>
 

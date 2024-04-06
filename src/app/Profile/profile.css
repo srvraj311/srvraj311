@@ -80,7 +80,7 @@
   position: relative;
   /* top: 90px; */
   left: 20px !important;
-  text-align: justify;
+  text-align: start;
   font-size: 1rem;
 }
 .horizontal {
@@ -212,5 +212,8 @@
   .profile .skill {
     padding: 5px 5px;
     margin: 5px 5px;
+  }
+  .horizontal {
+    margin-top: -40px;
   }
 }

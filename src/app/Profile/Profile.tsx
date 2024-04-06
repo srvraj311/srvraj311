@@ -36,9 +36,7 @@ const Profile = React.forwardRef(({ ref }: any) => {
                 <EnvelopeAt /> &nbsp; Sourabhraj311@gmail.com
               </a>
               {/* <div className="email"> <EnvelopeAt /> &nbsp; Sourabhraj311@gmail.com</div> */}
-              <a href="tel://+919142865908" className="email phone">
-                <Phone /> &nbsp; +91 91428 65908
-              </a>
+              
               <a
                 href="https://docs.google.com/document/d/1pwVMw1AFa5WONMjgiv9HB2F0ev5c-zQAvy8PteS8zAI/edit?usp=sharing"
                 target="_blank"
@@ -87,9 +85,6 @@ const Profile = React.forwardRef(({ ref }: any) => {
                 target="_blank"
               >
                 <Envelope /> &nbsp; &nbsp;E-Mail
-              </a>
-              <a className="skill" href="tel://+91 9142865908" target="_blank">
-                <Phone /> &nbsp; Phone
               </a>
               <a
                 className="skill"

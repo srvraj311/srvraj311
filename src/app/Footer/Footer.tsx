@@ -19,9 +19,6 @@ function Footer() {
           <a className="skill" href="mailto://sourabhraj311@gmail.com" target="_blank">
             <Envelope /> &nbsp; &nbsp;E-Mail
           </a>
-          <a className="skill" href="tel://+91 9142865908" target="_blank">
-            <Phone/> &nbsp; Phone
-          </a>
           <a className="skill" href="https://www.behance.net/sourabhraj" target="_blank">
             <Behance/> &nbsp; &nbsp;Behance
           </a>
