@@ -81,7 +81,7 @@ A Complete Note taking application for Web/Android based on Firebase
 Displayed an efficient seat booking algorithm based on Dynamic Programming onto a full stack application as a part of Hiring Challenge by Dare2Compete.com (Unstop.com). View the repo for problem statement and my solution for the same.  
 
 ![React](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb) ![React](https://img.shields.io/badge/-ExpressJS-05122A?style=flat&logo=express) ![React](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)  ![React](https://img.shields.io/badge/-NodeJS-05122A?style=flat&logo=node.js)  
-[![Android-Repo](https://img.shields.io/badge/CODEBASE-%20-5638ff?style=for-the-badge&logo=material-ui&logoColor=white)](https://github.com/srvraj311/seat-allocation-fullstack) 
+[![Android-Repo](https://img.shields.io/badge/CODEBASE-%20-5638ff?style=for-the-badge&logo=material-ui&logoColor=white)](https://github.com/srvraj311/seat-allocation-fullstack) [![View Live](https://img.shields.io/badge/VIEW--LIVE-%20-5638ff?style=for-the-badge&logo=material-ui&logoColor=white)](https://seat-allocation-fullstack.vercel.app/)
 
 ###  4. Shortify : Url Shortner 
 ![Image](https://res.cloudinary.com/srvraj311/image/upload/c_scale,w_238/v1650611514/Screenshot_2022-04-22_at_12.36.33_PM_ewbfp5.png)  
