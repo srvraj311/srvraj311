@@ -74,7 +74,7 @@ A Complete Note taking application for Web/Android based on Firebase
 **Released new Verisons for Mac/Windows - View [Here](https://github.com/srvraj311/enwrite-angular/releases/tag/0.1.0)**  
 
 ![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=android) ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react) ![React](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb) ![React](https://img.shields.io/badge/-ExpressJS-05122A?style=flat&logo=express) ![React](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)  ![React](https://img.shields.io/badge/-NodeJS-05122A?style=flat&logo=node.js)  ![React](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)  
-[![Android-Repo](https://img.shields.io/badge/Android-%20-5638ff?style=for-the-badge&logo=material-ui&logoColor=white)](https://github.com/srvraj311/enWrite-Android) [![Android-Repo](https://img.shields.io/badge/FRONTEND--WEB-%20-5638ff?style=for-the-badge&logo=material-ui&logoColor=white)](https://github.com/srvraj311/enWrite-angular)
+[![Android-Repo](https://img.shields.io/badge/Android-%20-5638ff?style=for-the-badge&logo=material-ui&logoColor=white)](https://github.com/srvraj311/enWrite-Android) [![Android-Repo](https://img.shields.io/badge/FRONTEND--WEB-%20-5638ff?style=for-the-badge&logo=material-ui&logoColor=white)](https://github.com/srvraj311/enWrite-angular) [![View Live](https://img.shields.io/badge/VIEW--LIVE-%20-5638ff?style=for-the-badge&logo=material-ui&logoColor=white)](https://enwrite-web.web.app)
 
 ###  3. Seat-Allocation System
 ![Image](https://res.cloudinary.com/srvraj311/image/upload/c_scale,w_190/v1649563429/Screenshot_2022-04-10_at_9.32.47_AM_vzxnch.png)  
