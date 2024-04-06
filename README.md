@@ -88,9 +88,7 @@ Displayed an efficient seat booking algorithm based on Dynamic Programming onto 
 A MEAN Stack application to shorten a long URL, Uses randomly generated keys to map with website names and then access them through same from application-url/key.This project was build and deployed **under 4 hours** as a personal challenge.
 
 ![React](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb) ![React](https://img.shields.io/badge/-ExpressJS-05122A?style=flat&logo=express) ![React](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)  ![React](https://img.shields.io/badge/-NodeJS-05122A?style=flat&logo=node.js)  
-[![Android-Repo](https://img.shields.io/badge/CODEBASE-%20-5638ff?style=for-the-badge&logo=material-ui&logoColor=white)](https://github.com/srvraj311/shortify-url-shortener) 
-
-
+[![Android-Repo](https://img.shields.io/badge/CODEBASE-%20-5638ff?style=for-the-badge&logo=material-ui&logoColor=white)](https://github.com/srvraj311/shortify-url-shortener) [![View Live](https://img.shields.io/badge/VIEW--LIVE-%20-5638ff?style=for-the-badge&logo=material-ui&logoColor=white)](https://shrtfy.vercel.app/)
 
 
 ---

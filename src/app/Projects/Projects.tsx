@@ -209,6 +209,14 @@ function Projects() {
           A MEAN Stack application to shorten a long URL, Uses randomly generated keys to map with website names and then access them through same from application-url/key.This project was build and deployed under 4 hours as a personal challenge.
           </div>
           <div className="project_links">
+          <a
+              href="https://shrtfy.vercel.app/"
+              target="_blank"
+              rel="noreferrer"
+              className="project_link"
+            >
+              <BoxArrowUpRight/> &nbsp; View Project
+            </a>
             <a
               href="https://github.com/srvraj311/shortify-url-shortener"
               target="_blank"
@@ -217,13 +225,6 @@ function Projects() {
             >
               <BoxArrowUpRight/> &nbsp; Github Repo 
             </a>
-          </div>
-          <div className="project_screenshots width-small">
-            <img
-              className="project_screenshot"
-              src="https://res.cloudinary.com/srvraj311/image/upload/v1650611514/Screenshot_2022-04-22_at_12.36.33_PM_ewbfp5.png"
-              alt="screenshot"
-            />
           </div>
         </div>
       </div>
