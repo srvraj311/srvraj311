@@ -171,6 +171,14 @@ function Projects() {
           Displayed an efficient seat booking algorithm based on Dynamic Programming onto a full stack application as a part of Hiring Challenge by Dare2Compete.com (Unstop.com). View the repo for problem statement and my solution for the same.
           </div>
           <div className="project_links">
+          <a
+              href="https://seat-allocation-fullstack.vercel.app/"
+              target="_blank"
+              rel="noreferrer"
+              className="project_link"
+            >
+              <BoxArrowUpRight/> &nbsp; View Project
+            </a>
             <a
               href="https://github.com/srvraj311/seat-allocation-fullstack"
               target="_blank"
