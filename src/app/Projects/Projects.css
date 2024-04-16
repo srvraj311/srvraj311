@@ -28,6 +28,11 @@
   align-items: center;
 }
 
+.project_name .project_link:hover {
+  background: none !important;
+  color:  var(--color) !important;
+}
+
 .project_card .content .project {
   background: var(--light-bg);
   display: flex;
