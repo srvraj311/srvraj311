@@ -59,7 +59,7 @@ const Profile = React.forwardRef(({ ref }: any) => {
           <Greeting />
           <div className="profile_details">
             <div className="bio">
-              I am a <b>Full Stack Developer</b> with a passion for creating web
+              I am a <b>Full Stack Developer</b> with an experience of <b>3+</b> years in web development. I am a passion for creating web
               and mobile applications. I am a quick learner who likes to take on
               new challenges. I constantly seek opprtunities to learn and grow
               as a responsible and innovative developer.

@@ -20,21 +20,22 @@ function Experiences() {
               className="project_link"
               style={{ marginLeft: "10px", padding: "24px" }}
             >
-              Senior Software Engineer : Persistent Systems Limited
+              Senior Software Engineer  @  Persistent Systems Limited
             </span>
           </div>
           <div className="project_date" style={{ marginLeft: "10px", marginTop: "10px" }}>
             <i>July 2022 - Present</i>
           </div>
           <div className="project_desc">
-              <b>Healthcare Optimization Platform for Client </b> <br />
-              <i> April 2023 - Present </i>
+              <b>Previous Software Engineer</b> <br />
+              <i> July 2022 - March 2024 </i>
           </div>
 
           <div className="project_desc">
-              <b>Healthcare Survey Platform for Client </b> <br />
-              <i> July 2022 - April 2023 </i>
+              <b>Previous Sofftware Engineer Intern</b> <br />
+              <i> Feb 2022 - June 2022 </i>
           </div>
+          <div className="project_desc">At Persistent Systems, I have worked as a Senior Software Engineer specializing in full-stack development for healthcare solutions. I have designed and optimized scalable applications for patient enrollment planning and clinical trials, leveraging Java, Spring Boot, Python, React, and Angular. Additionally, I have contributed to algorithm development, cloud integration (Azure, AWS), security enhancements, and UI/UX improvements, ensuring high-performance, secure, and user-friendly solutions.</div>
           <div className="project_desc"><h1><b>Achievements</b></h1></div>
           <div className="project_links" style={{ marginBottom: "0px" }}>
             <a
@@ -78,9 +79,17 @@ function Experiences() {
             >
               <BoxArrowUpRight/> &nbsp; Gen-AI Certification
             </a>
+            <a
+              href="https://www.credly.com/badges/e152bff9-5de2-46d5-9e58-c897436f23cf?source=linked_in_profile"
+              target="_blank"
+              rel="noreferrer"
+              className="project_link"
+            >
+              <BoxArrowUpRight/> &nbsp; Microsoft Azure Fundamentals
+            </a>
           </div>
         </div>
-        <div className="project" >
+        {/* <div className="project" >
           <div className="project_name">
             <img
               className="project_logo"
@@ -120,7 +129,7 @@ function Experiences() {
               <BoxArrowUpRight/> &nbsp; Internship Completion Certificate
             </a>
           </div>
-        </div>
+        </div> */}
         <div className="project">
           <div className="project_name">
             <img
@@ -132,7 +141,7 @@ function Experiences() {
               className="project_link"
               style={{ marginLeft: "10px", padding: "24px" }}
             >
-              Android Developer Intern : BinaryDots - Fretbox
+              Android Developer Intern @  BinaryDots - Fretbox
             </span>
           </div>
           <div className="project_date" style={{ marginLeft: "10px", marginTop: "10px" }}>
@@ -142,6 +151,8 @@ function Experiences() {
               <b>Fretbox Hostel Management Android Application </b> <br />
               <i> August 2021 - Nonvember 2021 </i>
           </div>
+
+          <div className="project_desc">During my Android Developer Internship at BinaryDots, I contributed to the development of a society security management application using Native Android and Spring Boot. I worked on designing user-friendly interfaces, implementing backend logic, and collaborating with developers, testers, and designers to enhance application functionality.</div>
         </div>
       </div>
     </div>
