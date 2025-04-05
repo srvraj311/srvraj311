@@ -13,6 +13,42 @@ function Projects() {
           <div className="project_name">
             <img
               className="project_logo"
+              src="https://res.cloudinary.com/srvraj311/image/upload/c_pad,w_48/v1743870523/Group_6_j318rc.png"
+              alt="project"
+            />{" "}
+            <span
+              className="project_link"
+              style={{ marginLeft: "10px", padding: "24px" }}
+            >
+              Eduverse.ai :
+            </span>
+          </div>
+          <div className="project_desc">
+            Eduverse.ai is an AI-powered platform designed to generate personalized learning paths based on user preferences, such as age group, language, and learning duration. The application leverages LLaMA 3 70B via the Groq API, with a React frontend and a FastAPI backend for seamless learning path generation.
+          </div>
+          <div className="project_links">
+            <a
+              href="https://eduverse-backend-lqj5.onrender.com/"
+              target="_blank"
+              rel="noreferrer"
+              className="project_link"
+            >
+              <BoxArrowUpRight /> &nbsp; View Project
+            </a>
+            <a
+              href="https://github.com/srvraj311/eduvserse_ai"
+              target="_blank"
+              rel="noreferrer"
+              className="project_link"
+            >
+              <BoxArrowUpRight /> &nbsp; Github Repo
+            </a>
+          </div>
+        </div>
+        <div className="project">
+          <div className="project_name">
+            <img
+              className="project_logo"
               src="https://res.cloudinary.com/srvraj311/image/upload/c_pad,w_48/v1711702470/icon_phukh6.png"
               alt="project"
             />{" "}
@@ -40,7 +76,7 @@ function Projects() {
               rel="noreferrer"
               className="project_link"
             >
-              <BoxArrowUpRight/> &nbsp; Github Repo - API
+              <BoxArrowUpRight /> &nbsp; Github Repo - API
             </a>
             <a
               href="https://github.com/srvraj311/health-io-app"
@@ -48,7 +84,7 @@ function Projects() {
               rel="noreferrer"
               className="project_link"
             >
-              <BoxArrowUpRight/> &nbsp; Github Repo - APP
+              <BoxArrowUpRight /> &nbsp; Github Repo - APP
             </a>
             <a
               href="https://github.com/srvraj311/health-io-hospital"
@@ -56,7 +92,7 @@ function Projects() {
               rel="noreferrer"
               className="project_link"
             >
-              <BoxArrowUpRight/> &nbsp; Github Repo - WEB
+              <BoxArrowUpRight /> &nbsp; Github Repo - WEB
             </a>
           </div>
         </div>
@@ -83,13 +119,13 @@ function Projects() {
             Responsive Design
           </div>
           <div className="project_links">
-          <a
+            <a
               href="https://enwrite-web.web.app/"
               target="_blank"
               rel="noreferrer"
               className="project_link"
             >
-              <BoxArrowUpRight/> &nbsp; View Project
+              <BoxArrowUpRight /> &nbsp; View Project
             </a>
             <a
               href="https://github.com/srvraj311/enWrite-angular"
@@ -97,7 +133,7 @@ function Projects() {
               rel="noreferrer"
               className="project_link"
             >
-              <BoxArrowUpRight/> &nbsp; Github Repo - Web
+              <BoxArrowUpRight /> &nbsp; Github Repo - Web
             </a>
             <a
               href="https://github.com/srvraj311/enWrite-Android"
@@ -105,7 +141,7 @@ function Projects() {
               rel="noreferrer"
               className="project_link"
             >
-              <BoxArrowUpRight/> &nbsp; Github Repo - Android App
+              <BoxArrowUpRight /> &nbsp; Github Repo - Android App
             </a>
           </div>
         </div>
@@ -139,7 +175,7 @@ function Projects() {
               rel="noreferrer"
               className="project_link"
             >
-              <BoxArrowUpRight/> &nbsp; Play Store - App
+              <BoxArrowUpRight /> &nbsp; Play Store - App
             </a>
             <a
               href="https://github.com/srvraj311/ivory-icon-pack"
@@ -147,7 +183,7 @@ function Projects() {
               rel="noreferrer"
               className="project_link"
             >
-              <BoxArrowUpRight/> &nbsp; Github Repo - Android
+              <BoxArrowUpRight /> &nbsp; Github Repo - Android
             </a>
           </div>
         </div>
@@ -168,16 +204,16 @@ function Projects() {
             </span>
           </div>
           <div className="project_desc">
-          Displayed an efficient seat booking algorithm based on Dynamic Programming onto a full stack application as a part of Hiring Challenge by Dare2Compete.com (Unstop.com). View the repo for problem statement and my solution for the same.
+            Displayed an efficient seat booking algorithm based on Dynamic Programming onto a full stack application as a part of Hiring Challenge by Dare2Compete.com (Unstop.com). View the repo for problem statement and my solution for the same.
           </div>
           <div className="project_links">
-          <a
+            <a
               href="https://seat-allocation-fullstack.vercel.app/"
               target="_blank"
               rel="noreferrer"
               className="project_link"
             >
-              <BoxArrowUpRight/> &nbsp; View Project
+              <BoxArrowUpRight /> &nbsp; View Project
             </a>
             <a
               href="https://github.com/srvraj311/seat-allocation-fullstack"
@@ -185,7 +221,7 @@ function Projects() {
               rel="noreferrer"
               className="project_link"
             >
-              <BoxArrowUpRight/> &nbsp; Github Repo 
+              <BoxArrowUpRight /> &nbsp; Github Repo
             </a>
           </div>
         </div>
@@ -206,16 +242,16 @@ function Projects() {
             </span>
           </div>
           <div className="project_desc">
-          A MEAN Stack application to shorten a long URL, Uses randomly generated keys to map with website names and then access them through same from application-url/key.This project was build and deployed under 4 hours as a personal challenge.
+            A MEAN Stack application to shorten a long URL, Uses randomly generated keys to map with website names and then access them through same from application-url/key.This project was build and deployed under 4 hours as a personal challenge.
           </div>
           <div className="project_links">
-          <a
+            <a
               href="https://shrtfy.vercel.app/"
               target="_blank"
               rel="noreferrer"
               className="project_link"
             >
-              <BoxArrowUpRight/> &nbsp; View Project
+              <BoxArrowUpRight /> &nbsp; View Project
             </a>
             <a
               href="https://github.com/srvraj311/shortify-url-shortener"
@@ -223,7 +259,7 @@ function Projects() {
               rel="noreferrer"
               className="project_link"
             >
-              <BoxArrowUpRight/> &nbsp; Github Repo 
+              <BoxArrowUpRight /> &nbsp; Github Repo
             </a>
           </div>
         </div>
