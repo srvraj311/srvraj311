@@ -1,271 +1,157 @@
 import React from "react";
 import "./Projects.css";
 import { BoxArrowUpRight } from "react-bootstrap-icons";
-function Projects() {
+
+interface Project {
+  logo: string;
+  title: string;
+  description: string;
+  links: {
+    label: string;
+    url: string;
+  }[];
+}
+
+const projects: Project[] = [
+  {
+    logo: "https://res.cloudinary.com/srvraj311/image/upload/c_pad,w_48/v1743870523/Group_6_j318rc.png",
+    title: "Eduverse.ai",
+    description:
+      "Eduverse.ai is an AI-powered platform designed to generate personalized learning paths based on user preferences, such as age group, language, and learning duration. The application leverages LLaMA 3 70B via the Groq API, with a React frontend and a FastAPI backend for seamless learning path generation.",
+    links: [
+      {
+        label: "View Project",
+        url: "https://eduverse-backend-lqj5.onrender.com/",
+      },
+      {
+        label: "Github Repo",
+        url: "https://github.com/srvraj311/eduvserse_ai",
+      },
+    ],
+  },
+  {
+    logo: "https://res.cloudinary.com/srvraj311/image/upload/c_pad,w_48/v1711702470/icon_phukh6.png",
+    title: "Health.io : Healthcare Automation Platform",
+    description:
+      "Health-io leverages artificial intelligence (AI) to automate core healthcare functionalities, aiming to improve efficiency and streamline processes. It includes AI for digital prescriptions, intelligent medication recommendations, enhanced user experience, and AI-powered hospital account management.",
+    links: [
+      {
+        label: "Github Repo - API",
+        url: "https://github.com/srvraj311/health-io-api",
+      },
+      {
+        label: "Github Repo - APP",
+        url: "https://github.com/srvraj311/health-io-app",
+      },
+      {
+        label: "Github Repo - WEB",
+        url: "https://github.com/srvraj311/health-io-hospital",
+      },
+    ],
+  },
+  {
+    logo: "https://res.cloudinary.com/srvraj311/image/upload/c_pad,w_48/v1626325102/Main_2_hu5xxl.png",
+    title: "enWrite : Personal Notes Application",
+    description:
+      "enWrite is a simple and clean web app for taking notes on the go, with real-time cloud sync, responsive UI, and rich user experience.",
+    links: [
+      {
+        label: "View Project",
+        url: "https://enwrite-web.web.app/",
+      },
+      {
+        label: "Github Repo - Web",
+        url: "https://github.com/srvraj311/enWrite-angular",
+      },
+      {
+        label: "Github Repo - Android App",
+        url: "https://github.com/srvraj311/enWrite-Android",
+      },
+    ],
+  },
+  {
+    logo: "https://res.cloudinary.com/srvraj311/image/upload/c_pad,w_48/v1712001153/unnamed_bmu737.webp",
+    title: "Ivory Minimal - Icon Pack",
+    description:
+      "A minimal and colorful Android icon pack with 300+ icons. Over 10,000 downloads on Play Store. Built using Blueprint Dashboard and designed using Photoshop and Illustrator.",
+    links: [
+      {
+        label: "Play Store - App",
+        url: "https://play.google.com/store/apps/details?id=com.srv.ivory",
+      },
+      {
+        label: "Github Repo - Android",
+        url: "https://github.com/srvraj311/ivory-icon-pack",
+      },
+    ],
+  },
+  {
+    logo: "https://res.cloudinary.com/srvraj311/image/upload/c_pad,w_48/v1712002099/angular-icon-2048x2048-24b236vf_uysajt.png",
+    title: "Seat Allocation System - Coding Problem",
+    description:
+      "Implemented an efficient seat booking algorithm using Dynamic Programming as part of a challenge on Unstop. Full-stack app available for demo and code inspection.",
+    links: [
+      {
+        label: "View Project",
+        url: "https://seat-allocation-fullstack.vercel.app/",
+      },
+      {
+        label: "Github Repo",
+        url: "https://github.com/srvraj311/seat-allocation-fullstack",
+      },
+    ],
+  },
+  {
+    logo: "https://res.cloudinary.com/srvraj311/image/upload/c_pad,w_48/v1712002099/angular-icon-2048x2048-24b236vf_uysajt.png",
+    title: "Shortify : URL Shortener made in 4 hours",
+    description:
+      "A MEAN Stack URL shortener with key-based mapping. Built and deployed under 4 hours as a personal challenge.",
+    links: [
+      {
+        label: "View Project",
+        url: "https://shrtfy.vercel.app/",
+      },
+      {
+        label: "Github Repo",
+        url: "https://github.com/srvraj311/shortify-url-shortener",
+      },
+    ],
+  },
+];
+
+const Projects: React.FC = () => {
   return (
-    <div className="project_card" id="projects">
+    <div className="project_card" id="experience">
       <div className="card-small skills">
-        <span className="title">My Personal Projects</span>
+        <span className="title">Projects</span>
       </div>
 
       <div className="content">
-        <div className="project">
-          <div className="project_name">
-            <img
-              className="project_logo"
-              src="https://res.cloudinary.com/srvraj311/image/upload/c_pad,w_48/v1743870523/Group_6_j318rc.png"
-              alt="project"
-            />{" "}
-            <span
-              className="project_link"
-              style={{ marginLeft: "10px", padding: "24px" }}
-            >
-              Eduverse.ai :
-            </span>
+        {projects.map((project, idx) => (
+          <div className="project" key={idx}>
+            <div className="project_name">
+              <img src={project.logo} alt={project.title} className="project_logo" />
+              <h3 style={{ marginLeft: "1rem" }}>{project.title}</h3>
+            </div>
+            <p className="project_desc">{project.description}</p>
+            <div className="project_links">
+              {project.links.map((link, i) => (
+                <a
+                  key={i}
+                  href={link.url}
+                  className="project_link"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  <BoxArrowUpRight /> &nbsp; {link.label}
+                </a>
+              ))}
+            </div>
           </div>
-          <div className="project_desc">
-            Eduverse.ai is an AI-powered platform designed to generate personalized learning paths based on user preferences, such as age group, language, and learning duration. The application leverages LLaMA 3 70B via the Groq API, with a React frontend and a FastAPI backend for seamless learning path generation.
-          </div>
-          <div className="project_links">
-            <a
-              href="https://eduverse-backend-lqj5.onrender.com/"
-              target="_blank"
-              rel="noreferrer"
-              className="project_link"
-            >
-              <BoxArrowUpRight /> &nbsp; View Project
-            </a>
-            <a
-              href="https://github.com/srvraj311/eduvserse_ai"
-              target="_blank"
-              rel="noreferrer"
-              className="project_link"
-            >
-              <BoxArrowUpRight /> &nbsp; Github Repo
-            </a>
-          </div>
-        </div>
-        <div className="project">
-          <div className="project_name">
-            <img
-              className="project_logo"
-              src="https://res.cloudinary.com/srvraj311/image/upload/c_pad,w_48/v1711702470/icon_phukh6.png"
-              alt="project"
-            />{" "}
-            <span
-              className="project_link"
-              style={{ marginLeft: "10px", padding: "24px" }}
-            >
-              Health.io : Healthcare Automation Platform
-            </span>
-          </div>
-          <div className="project_desc">
-            Health-io leverages artificial intelligence (AI) to automate core
-            healthcare functionalities, aiming to improve efficiency and
-            streamline processes across the healthcare ecosystem. This includes
-            utilizing AI for digital prescription generation, intelligent
-            medication recommendations, and enhanced patient and provider
-            experiences. Additionally, Health.io incorporates AI-powered
-            hospital account management to optimize administrative tasks and
-            financial processes.
-          </div>
-          <div className="project_links">
-            <a
-              href="https://github.com/srvraj311/health-io-api"
-              target="_blank"
-              rel="noreferrer"
-              className="project_link"
-            >
-              <BoxArrowUpRight /> &nbsp; Github Repo - API
-            </a>
-            <a
-              href="https://github.com/srvraj311/health-io-app"
-              target="_blank"
-              rel="noreferrer"
-              className="project_link"
-            >
-              <BoxArrowUpRight /> &nbsp; Github Repo - APP
-            </a>
-            <a
-              href="https://github.com/srvraj311/health-io-hospital"
-              target="_blank"
-              rel="noreferrer"
-              className="project_link"
-            >
-              <BoxArrowUpRight /> &nbsp; Github Repo - WEB
-            </a>
-          </div>
-        </div>
-
-        {/* Second Project */}
-        <div className="project">
-          <div className="project_name">
-            <img
-              className="project_logo"
-              src="https://res.cloudinary.com/srvraj311/image/upload/c_pad,w_48/v1626325102/Main_2_hu5xxl.png"
-              alt="project"
-            />
-            <span
-              className="project_link"
-              style={{ marginLeft: "10px", padding: "24px" }}
-            >
-              enWrite : Personal Notes Application
-            </span>
-          </div>
-          <div className="project_desc">
-            enWrite is an simple and clean web app for taking notes on the go
-            that syncs across your devices.Comes with Note taking and Real-Time
-            cloud sync Simple and Easy-to-use UI with Rich User Experience Fully
-            Responsive Design
-          </div>
-          <div className="project_links">
-            <a
-              href="https://enwrite-web.web.app/"
-              target="_blank"
-              rel="noreferrer"
-              className="project_link"
-            >
-              <BoxArrowUpRight /> &nbsp; View Project
-            </a>
-            <a
-              href="https://github.com/srvraj311/enWrite-angular"
-              target="_blank"
-              rel="noreferrer"
-              className="project_link"
-            >
-              <BoxArrowUpRight /> &nbsp; Github Repo - Web
-            </a>
-            <a
-              href="https://github.com/srvraj311/enWrite-Android"
-              target="_blank"
-              rel="noreferrer"
-              className="project_link"
-            >
-              <BoxArrowUpRight /> &nbsp; Github Repo - Android App
-            </a>
-          </div>
-        </div>
-
-        {/* Third Project */}
-        <div className="project">
-          <div className="project_name">
-            <img
-              className="project_logo"
-              src="https://res.cloudinary.com/srvraj311/image/upload/c_pad,w_48/v1712001153/unnamed_bmu737.webp"
-              alt="project"
-            />
-            <span
-              className="project_link"
-              style={{ marginLeft: "10px", padding: "24px" }}
-            >
-              Ivory Minimal - Icon Pack
-            </span>
-          </div>
-          <div className="project_desc">
-            A minimal and colorfull android icon pack, with 300+ icons for
-            dfifferent apps made as a design project. The icon pack has more
-            than 10000 downloads on play store. The application is based on
-            blueprint-dashboard, with custom designed icons using photoshop and
-            adobe illustrator.
-          </div>
-          <div className="project_links">
-            <a
-              href="https://play.google.com/store/apps/details?id=com.srv.ivory"
-              target="_blank"
-              rel="noreferrer"
-              className="project_link"
-            >
-              <BoxArrowUpRight /> &nbsp; Play Store - App
-            </a>
-            <a
-              href="https://github.com/srvraj311/ivory-icon-pack"
-              target="_blank"
-              rel="noreferrer"
-              className="project_link"
-            >
-              <BoxArrowUpRight /> &nbsp; Github Repo - Android
-            </a>
-          </div>
-        </div>
-
-        {/* Fourth Project */}
-        <div className="project">
-          <div className="project_name">
-            <img
-              className="project_logo"
-              src="https://res.cloudinary.com/srvraj311/image/upload/c_pad,w_48/v1712002099/angular-icon-2048x2048-24b236vf_uysajt.png"
-              alt="project"
-            />
-            <span
-              className="project_link"
-              style={{ marginLeft: "10px", padding: "24px" }}
-            >
-              Seat Allocation System - Coding Problem
-            </span>
-          </div>
-          <div className="project_desc">
-            Displayed an efficient seat booking algorithm based on Dynamic Programming onto a full stack application as a part of Hiring Challenge by Dare2Compete.com (Unstop.com). View the repo for problem statement and my solution for the same.
-          </div>
-          <div className="project_links">
-            <a
-              href="https://seat-allocation-fullstack.vercel.app/"
-              target="_blank"
-              rel="noreferrer"
-              className="project_link"
-            >
-              <BoxArrowUpRight /> &nbsp; View Project
-            </a>
-            <a
-              href="https://github.com/srvraj311/seat-allocation-fullstack"
-              target="_blank"
-              rel="noreferrer"
-              className="project_link"
-            >
-              <BoxArrowUpRight /> &nbsp; Github Repo
-            </a>
-          </div>
-        </div>
-
-        {/* Fifth Project */}
-        <div className="project">
-          <div className="project_name">
-            <img
-              className="project_logo"
-              src="https://res.cloudinary.com/srvraj311/image/upload/c_pad,w_48/v1712002099/angular-icon-2048x2048-24b236vf_uysajt.png"
-              alt="project"
-            />
-            <span
-              className="project_link"
-              style={{ marginLeft: "10px", padding: "24px" }}
-            >
-              Shortify : URL Shortener made in 4 hours
-            </span>
-          </div>
-          <div className="project_desc">
-            A MEAN Stack application to shorten a long URL, Uses randomly generated keys to map with website names and then access them through same from application-url/key.This project was build and deployed under 4 hours as a personal challenge.
-          </div>
-          <div className="project_links">
-            <a
-              href="https://shrtfy.vercel.app/"
-              target="_blank"
-              rel="noreferrer"
-              className="project_link"
-            >
-              <BoxArrowUpRight /> &nbsp; View Project
-            </a>
-            <a
-              href="https://github.com/srvraj311/shortify-url-shortener"
-              target="_blank"
-              rel="noreferrer"
-              className="project_link"
-            >
-              <BoxArrowUpRight /> &nbsp; Github Repo
-            </a>
-          </div>
-        </div>
+        ))}
       </div>
     </div>
   );
-}
+};
 
 export default Projects;

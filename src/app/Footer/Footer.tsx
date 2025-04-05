@@ -6,8 +6,8 @@ import { Behance, Envelope, Github, GooglePlay, Linkedin, Mailbox, Mailbox2, Mai
 function Footer() {
   return (
     <div className="project_card" id="contact">
-  
-      <div className="content">
+
+      <div className="footer-content">
         <p> &copy; Sourabh 2024</p>
         <div className="skills_container" >
           <a className="skill" href="https://www.linkedin.com/in/srvraj311" target="_blank">
@@ -20,13 +20,13 @@ function Footer() {
             <Envelope /> &nbsp; &nbsp;E-Mail
           </a>
           <a className="skill" href="https://www.behance.net/sourabhraj" target="_blank">
-            <Behance/> &nbsp; &nbsp;Behance
+            <Behance /> &nbsp; &nbsp;Behance
           </a>
           <a className="skill" href="https://play.google.com/store/apps/dev?id=8639471483097231208" target="_blank">
             <GooglePlay /> &nbsp; &nbsp; Play Store
           </a>
 
-          
+
         </div>
       </div>
     </div>

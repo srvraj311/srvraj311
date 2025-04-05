@@ -11,7 +11,7 @@
   top: 250px;
   margin-bottom: 300px;
   scroll-margin: 200px;
-  border-radius: 10px; 
+  border-radius: 10px;
 }
 
 .profile_pic {
@@ -23,12 +23,14 @@
   top: -4rem;
   left: -20px !important;
 }
+
 .profile_pic img {
   box-shadow: var(--shadow);
   height: 300px;
   width: 100%;
   border-radius: 10px;
 }
+
 .profile_details {
   display: flex;
   position: relative;
@@ -36,10 +38,11 @@
   color: var(--color);
   margin-top: 1rem;
   height: 100%;
-  flex-direction: column; 
+  flex-direction: column;
   position: relative;
   top: 90px;
 }
+
 .name {
   display: none;
   opacity: 1 !important;
@@ -47,21 +50,24 @@
   font-size: 2.4rem;
   top: 1.2rem;
 }
+
 .role {
   display: none;
   position: relative;
   top: 0.6rem;
   left: 0.2rem;
 }
+
 .contact {
   position: relative;
   margin-top: 2rem;
-  cursor: pointer;
+  /* cursor: pointer; */
   display: flex;
   flex-direction: column;
   align-items: flex-start;
   height: 100%;
 }
+
 .contact a {
   width: 19rem;
   display: flex;
@@ -70,10 +76,12 @@
   justify-content: flex-start;
   text-align: center;
 }
+
 .contact svg {
   margin-top: -4px;
   vertical-align: middle;
 }
+
 .bio {
   width: 100%;
   max-width: 40vw;
@@ -83,6 +91,7 @@
   text-align: start;
   font-size: 1rem;
 }
+
 .horizontal {
   display: flex;
   flex-direction: column;
@@ -95,6 +104,7 @@
 .phone {
   margin-top: 10px;
 }
+
 .email {
   display: flex;
   justify-content: center;
@@ -111,12 +121,14 @@
   transition: 0.3s;
   font-size: 0.8rem;
 }
+
 .email:hover {
   background-color: var(--color);
   color: var(--dark-color);
   box-shadow: var(--shadow-small-light);
   cursor: pointer;
 }
+
 .phone {
   margin-top: 15px;
 }
@@ -135,11 +147,13 @@
     top: 140px;
     flex-direction: column;
   }
+
   .profile_container {
     display: flex;
     flex-direction: column;
     align-items: center;
   }
+
   .profile_pic {
     position: relative;
     top: 0px;
@@ -150,21 +164,25 @@
     justify-content: center;
     align-items: center;
   }
+
   .profile_pic img {
     position: relative;
     top: -40px;
     height: 200px;
     width: 200px;
   }
+
   .name {
     font-size: 1.4rem;
     text-align: center;
   }
+
   .role {
     text-align: center;
     font-size: 0.7rem;
     margin-top: 0.4rem;
   }
+
   .email {
     font-size: 0.7rem;
     padding: 3px 10px;
@@ -172,15 +190,18 @@
     width: 100%;
 
   }
+
   .contact a {
     width: 100%;
     align-items: center;
     vertical-align: middle;
     height: 20px;
   }
+
   .contact {
     align-items: center;
   }
+
   .profile_details {
     /* margin-top: -70px; */
     width: 100%;
@@ -191,6 +212,7 @@
     justify-content: center;
     align-items: center;
   }
+
   .bio {
     max-width: 70vw;
     width: 100%;
@@ -202,6 +224,7 @@
     margin-bottom: 2rem;
     font-size: 0.7rem;
   }
+
   .skills_container {
     flex-direction: row;
     flex-wrap: wrap;
@@ -209,10 +232,12 @@
     width: 100%;
     justify-content: center;
   }
+
   .profile .skill {
     padding: 5px 5px;
     margin: 5px 5px;
   }
+
   .horizontal {
     margin-top: -40px;
   }
