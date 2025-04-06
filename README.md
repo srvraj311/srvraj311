@@ -39,7 +39,7 @@
 
 ---
 
-### 1. health-io: Healtcare Automation Platform
+### 1. Eduverse.ai
 
 ![[image]](https://res.cloudinary.com/srvraj311/image/upload/c_pad,h_200/v1743875143/Screenshot_2025-04-05_231515_gbvfmb.png) ![image](https://res.cloudinary.com/srvraj311/image/upload/c_pad,h_200/v1743875143/Screenshot_2025-04-05_231533_yqnugo.png) ![img](https://res.cloudinary.com/srvraj311/image/upload/c_pad,h_200/v1743875144/Screenshot_2025-04-05_231508_zjlcka.png)  
 Eduverse.ai is an AI-powered platform designed to generate personalized learning paths based on user preferences, such as age group, language, and learning duration. The application leverages LLaMA 3 70B via the Groq API, with a React frontend and a FastAPI backend for seamless learning path generation.

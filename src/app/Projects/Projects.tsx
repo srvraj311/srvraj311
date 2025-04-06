@@ -25,7 +25,7 @@ const projects: Project[] = [
       },
       {
         label: "Github Repo",
-        url: "https://github.com/srvraj311/eduvserse_ai",
+        url: "https://github.com/srvraj311/eduverse_ai",
       },
     ],
   },
