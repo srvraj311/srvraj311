@@ -140,15 +140,9 @@ const Projects: React.FC = () => {
 
   const handleLike = async (projectTitle: string) => {
     try {
-      const updatedLikes = { ...likes };
-      updatedLikes[projectTitle]++;
-      setLikes(updatedLikes);
-
-      const updatedClicked = { ...clicked };
-      updatedClicked[projectTitle] = true;
-      setClicked(updatedClicked);
-
       await sendUserInteraction({ type: "like", itemId: projectTitle });
+      const likes = await getLikes();
+      setLikes(likes as Record<string, number>);
     } catch (error) {
       console.error("Like failed:", error);
     }
