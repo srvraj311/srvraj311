@@ -1,6 +1,7 @@
-import React from "react";
+import React, { useState, useEffect } from "react";
 import "./Projects.css";
-import { BoxArrowUpRight } from "react-bootstrap-icons";
+import { BoxArrowUpRight, HandThumbsUp } from "react-bootstrap-icons";
+import { sendUserInteraction, getLikes } from "../api.js";
 
 interface Project {
   logo: string;
@@ -120,6 +121,39 @@ const projects: Project[] = [
 ];
 
 const Projects: React.FC = () => {
+  const [likes, setLikes] = useState<Record<string, number>>({});
+  const [clicked, setClicked] = useState<Record<string, boolean>>({});
+
+  // Fetch the initial likes when the component mounts
+  useEffect(() => {
+    const fetchLikes = async () => {
+      try {
+        const likeCounts = await getLikes();
+        setLikes(likeCounts as Record<string, number>);
+        console.log(likes)
+      } catch (error) {
+        console.error("Error fetching likes:", error);
+      }
+    };
+    fetchLikes();
+  }, []);
+
+  const handleLike = async (projectTitle: string) => {
+    try {
+      const updatedLikes = { ...likes };
+      updatedLikes[projectTitle]++;
+      setLikes(updatedLikes);
+
+      const updatedClicked = { ...clicked };
+      updatedClicked[projectTitle] = true;
+      setClicked(updatedClicked);
+
+      await sendUserInteraction({ type: "like", itemId: projectTitle });
+    } catch (error) {
+      console.error("Like failed:", error);
+    }
+  };
+
   return (
     <div className="project_card" id="experience">
       <div className="card-small skills">
@@ -129,6 +163,18 @@ const Projects: React.FC = () => {
       <div className="content">
         {projects.map((project, idx) => (
           <div className="project" key={idx}>
+            <div className="like_section">
+              <button
+                className="like_button"
+                onClick={() => handleLike(project.title)}
+                disabled={clicked[project.title]}
+              >
+                <div className="like_text">
+                  <HandThumbsUp />
+                </div>
+                <div>{(likes?.hasOwnProperty(project.title) ? likes[project.title] : 0) ?? 0}</div>
+              </button>
+            </div>
             <div className="project_name">
               <img src={project.logo} alt={project.title} className="project_logo" />
               <h3 style={{ marginLeft: "1rem" }}>{project.title}</h3>
