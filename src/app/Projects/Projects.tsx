@@ -155,7 +155,7 @@ const Projects: React.FC = () => {
   };
 
   return (
-    <div className="project_card" id="experience">
+    <div className="project_card" id="projects">
       <div className="card-small skills">
         <span className="title">Projects</span>
       </div>
