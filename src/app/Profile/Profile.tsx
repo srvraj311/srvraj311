@@ -29,16 +29,16 @@ const Profile = React.forwardRef(({ ref }: any) => {
           <div className="horizontal">
             <div>
               <div className="name">SOURABH</div>
-              <div className="role">Full Stack Developer</div>
+              <div className="role">Lead Software Engineer | Frontend Specialist | Backend Proficient</div>
             </div>
             <div className="contact">
               <a href="mailto://sourabhraj311@gmail.com" className="email">
                 <EnvelopeAt /> &nbsp; Sourabhraj311@gmail.com
               </a>
               {/* <div className="email"> <EnvelopeAt /> &nbsp; Sourabhraj311@gmail.com</div> */}
-              
+
               <a
-                href="https://docs.google.com/document/d/1pwVMw1AFa5WONMjgiv9HB2F0ev5c-zQAvy8PteS8zAI/edit?usp=sharing"
+                href="https://docs.google.com/document/d/1Uk49X-zSmSUBgqamApekUJ1UKaxhavJkJgh49ZW3rh4/edit?usp=sharing"
                 target="_blank"
                 className="email phone"
               >
@@ -59,7 +59,7 @@ const Profile = React.forwardRef(({ ref }: any) => {
           <Greeting />
           <div className="profile_details">
             <div className="bio">
-              I am a <b>Full Stack Developer</b> with an experience of <b>3+</b> years in web development. I am a passion for creating web
+              I am a <b>Software Developer</b> with an experience of <b>3+</b> years in web development. I am a passion for creating web
               and mobile applications. I am a quick learner who likes to take on
               new challenges. I constantly seek opprtunities to learn and grow
               as a responsible and innovative developer.

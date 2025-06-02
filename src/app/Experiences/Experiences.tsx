@@ -15,7 +15,7 @@ const experienceData: ExperienceItem[] = [
     title: "Lead Software Engineer @ Persistent Systems Limited",
     date: "March 2025 - Present",
     descriptions: [
-      "Leading full-stack development of scalable enterprise solutions using AngularJS, Spring MVC, REST APIs, and D3.js in a hybrid agile environment."
+      "Leading the design and development of impactful features in the Healthcare and Life Sciences domain, driving enhanced customer experience and product profitability. I focus on scalable architecture, team mentorship, and delivering business-aligned solutions with measurable value."
     ],
     achievements: []
   },
@@ -24,7 +24,7 @@ const experienceData: ExperienceItem[] = [
     title: "Senior Software Engineer @ Persistent Systems Limited",
     date: "March 2024 - March 2025",
     descriptions: [
-      "Led architecture modernization by transitioning monoliths to microservices, enhancing performance, security, and deployment efficiency."
+      "As a Senior Software Engineer at Persistent Systems Limited, I focused on enhancing application security, performance, and scalability. I led major upgrades, technology migrations, and played a key role in transitioning the monolithic architecture to microservices. My work ensured smoother deployments, better system resilience, and improved overall application efficiency."
     ],
     achievements: [
       {
@@ -46,7 +46,7 @@ const experienceData: ExperienceItem[] = [
     title: "Software Engineer @ Persistent Systems Limited",
     date: "July 2022 - March 2024",
     descriptions: [
-      "Built and optimized clinical trial applications with Angular and Spring Boot; improved forecasting algorithms and UI performance."
+      "As a Software Engineer at Persistent Systems Limited, I developed healthcare-focused web applications using Angular, Spring Boot, and MongoDB, enhancing patient enrollment and clinical trial planning. I optimized backend algorithms for forecasting and milestone calculations, and improved UI performance with tools like ag-Grid and GoJS. I also contributed to major releases, led Angular version upgrades, and received multiple Bravo Awards for exceptional performance."
     ],
     achievements: [
       {
@@ -72,7 +72,7 @@ const experienceData: ExperienceItem[] = [
     title: "Software Engineer Intern @ Persistent Systems Limited",
     date: "February 2022 - July 2022",
     descriptions: [
-      "Assisted in feature development and bug fixing across Angular and Spring Boot modules, laying the foundation for full-time engineering."
+      "As an intern at Persistent Systems Limited, I contributed to feature development and bug fixing across full-stack modules, gaining hands-on experience with Angular, Java, and Spring Boot. I collaborated closely with senior developers, participated in code reviews, and quickly adapted to agile development practices, laying a strong foundation for my software engineering career."
     ],
     achievements: [
       {
@@ -86,7 +86,7 @@ const experienceData: ExperienceItem[] = [
     title: "Android Developer Intern @ BinaryDots - Fretbox",
     date: "August 2021 - November 2021",
     descriptions: [
-      "Developed core features and backend logic for a hostel management Android app using Native Android and Spring Boot."
+      `Worked on project FretBox Management, Learned to write efficient and scalable code. Day to Day tasks included Converting a UI Prototype to layouts and attaching Data via API calls. Adding logical implementation of some sections and providing helpful contribution in daily meetings. Understood scaled use of VCS in production-level code. Gained experience with Android and improved my Problem-Solving ability.`
     ],
     achievements: []
   }
