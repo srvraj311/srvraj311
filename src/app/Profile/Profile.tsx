@@ -38,7 +38,7 @@ const Profile = React.forwardRef(({ ref }: any) => {
               {/* <div className="email"> <EnvelopeAt /> &nbsp; Sourabhraj311@gmail.com</div> */}
 
               <a
-                href="https://docs.google.com/document/d/1Uk49X-zSmSUBgqamApekUJ1UKaxhavJkJgh49ZW3rh4/edit?usp=sharing"
+                href="https://docs.google.com/document/d/1pwVMw1AFa5WONMjgiv9HB2F0ev5c-zQAvy8PteS8zAI/edit?usp=sharing"
                 target="_blank"
                 className="email phone"
               >
