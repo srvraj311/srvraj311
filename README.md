@@ -1,21 +1,28 @@
 <!-- ────────────────────────────  HEADER  ──────────────────────────── -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D9488,100:0F766E&height=200&section=header&text=Sourabh&fontColor=ffffff&fontSize=58&fontAlignY=35&desc=Software%20Development%20Engineer%20II%20%7C%20greytHR&descSize=16&descAlignY=56&animation=fadeIn" width="100%" alt="Sourabh" />
+<h1 align="center">Sourabh</h1>
+<p align="center">
+  <b>Software Development Engineer&nbsp;II</b> &nbsp;&middot;&nbsp; greytHR
+</p>
 
-<div align="center">
+<p align="center">
+  <a href="https://srvraj311.vercel.app"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1200&color=0D9488&center=true&vCenter=true&width=600&height=38&lines=Full-stack+engineer%2C+backend-leaning;greytHR+HRMS+%C2%B7+ex-Persistent+%2F+IQVIA;Java+%C2%B7+Spring+%C2%B7+Angular+%C2%B7+React+%C2%B7+AI;I+ship+products+and+sweat+the+pixels" alt="tagline" /></a>
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1200&color=0D9488&center=true&vCenter=true&width=620&height=42&lines=Full-stack+engineer%2C+backend-leaning;greytHR+HRMS+%C2%B7+ex-Persistent+%2F+IQVIA;Java+%C2%B7+Spring+%C2%B7+Angular+%C2%B7+React+%C2%B7+AI;I+ship+products+and+sweat+the+pixels)](https://srvraj311.vercel.app)
+<p align="center">
+  <a href="https://srvraj311.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0D9488?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/srvraj311/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:sourabhraj311@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://play.google.com/store/apps/dev?id=8639471483097231208"><img src="https://img.shields.io/badge/Play_Store-01875F?style=for-the-badge&logo=googleplay&logoColor=white" alt="Google Play" /></a>
+  <a href="https://www.behance.net/sourabhraj"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" /></a>
+</p>
 
-<a href="https://srvraj311.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0D9488?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/srvraj311/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:sourabhraj311@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://play.google.com/store/apps/dev?id=8639471483097231208"><img src="https://img.shields.io/badge/Play_Store-01875F?style=for-the-badge&logo=googleplay&logoColor=white" alt="Google Play" /></a>
-<a href="https://www.behance.net/sourabhraj"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=srvraj311&style=for-the-badge&color=0D9488&label=PROFILE+VIEWS" alt="views" />
+  <img src="https://img.shields.io/github/followers/srvraj311?style=for-the-badge&color=0D9488&labelColor=1c1c1c&logo=github&logoColor=white" alt="followers" />
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=srvraj311&style=for-the-badge&color=0D9488&label=PROFILE+VIEWS" alt="views" />
-<img src="https://img.shields.io/github/followers/srvraj311?style=for-the-badge&color=0D9488&labelColor=1c1c1c&logo=github&logoColor=white" alt="followers" />
-
-</div>
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" alt="" />
 
 <!-- ────────────────────────────  ABOUT  ──────────────────────────── -->
 
@@ -82,7 +89,7 @@ const sourabh = {
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=srvraj311&theme=github_dark" alt="most used" />
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=srvraj311&theme=github_dark&utcOffset=5.5" alt="productive time" />
 
-<img width="99%" src="https://streak-stats.demolab.com?user=srvraj311&theme=transparent&hide_border=true&border_radius=8&ring=0D9488&fire=0D9488&currStreakLabel=0D9488" alt="streak" />
+<img height="185" src="https://streak-stats.demolab.com?user=srvraj311&theme=dark&hide_border=true&border_radius=10&background=0D1117&ring=0D9488&fire=0D9488&currStreakLabel=0D9488&sideNums=E6EDF3&currStreakNum=E6EDF3&dates=8B949E&sideLabels=E6EDF3" alt="streak" />
 
 </div>
 
@@ -119,14 +126,9 @@ const sourabh = {
 
 <!-- ────────────────────────────  FOOTER  ──────────────────────────── -->
 
-<br/>
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" alt="" />
 
-<div align="center">
-
-**Let's build something that matters.**
-
-<a href="mailto:sourabhraj311@gmail.com"><img src="https://img.shields.io/badge/sourabhraj311@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,100:0D9488&height=120&section=footer" width="100%" alt="" />
+<p align="center">
+  <b>Let's build something that matters.</b><br/>
+  <a href="mailto:sourabhraj311@gmail.com"><img src="https://img.shields.io/badge/sourabhraj311@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
+</p>
