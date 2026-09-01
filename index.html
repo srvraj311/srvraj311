@@ -1,0 +1,36 @@
+
+  <!DOCTYPE html>
+  <html lang="en" class="dark">
+    <head>
+      <script>
+        (function () {
+          try {
+            var t = localStorage.getItem("theme");
+            if (t !== "light" && t !== "dark") t = "dark";
+            document.documentElement.classList.toggle("dark", t === "dark");
+          } catch (e) {}
+        })();
+      </script>
+      <meta charset="UTF-8" />
+      <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+      <title>Sourabh — Software Engineer</title>
+      <meta name="description" content="Sourabh (srvraj311) — full-stack software engineer with a backend lean, building enterprise SaaS, healthcare platforms, and AI-powered products. SDE II at greytHR, previously Lead Software Engineer at Persistent Systems." />
+      <meta name="author" content="Sourabh" />
+      <meta name="robots" content="index, follow" />
+      <meta property="og:type" content="website" />
+      <meta property="og:title" content="Sourabh — Software Engineer" />
+      <meta property="og:description" content="Full-stack engineer building enterprise SaaS, healthcare platforms, and AI-powered products." />
+      <meta property="og:image" content="https://res.cloudinary.com/srvraj311/image/upload/v1764679698/pic-profile_xdic0p.png" />
+      <meta name="twitter:card" content="summary_large_image" />
+      <style>html, body { height: 100%; margin: 0; } #root { height: 100%; }</style>
+      
+    </head>
+
+    <body>
+      
+      <div id="root"></div>
+      <script type="module" src="/src/main.tsx"></script>
+      
+    </body>
+  </html>
+  
