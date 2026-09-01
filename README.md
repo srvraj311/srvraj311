@@ -21,17 +21,17 @@
 
 ## &nbsp;`~/` whoami
 
-<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" alt="coding" />
+<img align="right" width="270" src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" alt="coding" />
 
 ```ts
 const sourabh = {
-  role:      "SDE II @ greytHR",
-  building:  "greytHR's full-suite HRMS platform",
-  before:    "Lead SE @ Persistent Systems — IQVIA clinical trials",
-  stack:     ["Java", "Spring Boot", "Angular", "React", "Python"],
-  cloud:     ["AWS", "Azure", "Docker", "K8s"],
-  exploring: ["LLM apps", "RAG", "prompt pipelines"],
-  alsoDoes:  "design — shipped an Android icon pack, 10K+ installs",
+  role:   "SDE II @ greytHR",
+  build:  "greytHR HRMS platform",
+  before: "Lead SE @ Persistent (IQVIA)",
+  stack:  ["Java", "Spring", "Angular", "React"],
+  cloud:  ["AWS", "Azure", "Docker", "K8s"],
+  ai:     ["LLM apps", "RAG", "pipelines"],
+  design: "icon pack · 10K+ installs",
 };
 ```
 
