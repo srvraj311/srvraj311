@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://srvraj311.vercel.app"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1200&color=0D9488&center=true&vCenter=true&width=600&height=38&lines=Full-stack+engineer%2C+backend-leaning;greytHR+HRMS+%C2%B7+ex-Persistent+%2F+IQVIA;Java+%C2%B7+Spring+%C2%B7+Angular+%C2%B7+React+%C2%B7+AI;I+ship+products+and+sweat+the+pixels" alt="tagline" /></a>
+  <i>Full-stack, backend-leaning&nbsp; &middot; &nbsp;greytHR HRMS &middot; ex-Persistent / IQVIA&nbsp; &middot; &nbsp;ships products, sweats the pixels</i>
 </p>
 
 <p align="center">
