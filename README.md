@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/github/followers/srvraj311?style=for-the-badge&color=0D9488&labelColor=1c1c1c&logo=github&logoColor=white" alt="followers" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D9488,100:0F766E&height=3" width="100%" alt="" />
 
 <!-- ────────────────────────────  ABOUT  ──────────────────────────── -->
 
@@ -89,8 +89,6 @@ const sourabh = {
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=srvraj311&theme=github_dark" alt="most used" />
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=srvraj311&theme=github_dark&utcOffset=5.5" alt="productive time" />
 
-<img height="185" src="https://streak-stats.demolab.com?user=srvraj311&theme=dark&hide_border=true&border_radius=10&background=0D1117&ring=0D9488&fire=0D9488&currStreakLabel=0D9488&sideNums=E6EDF3&currStreakNum=E6EDF3&dates=8B949E&sideLabels=E6EDF3" alt="streak" />
-
 </div>
 
 <!-- ────────────────────────────  PROJECTS  ──────────────────────────── -->
@@ -126,7 +124,7 @@ const sourabh = {
 
 <!-- ────────────────────────────  FOOTER  ──────────────────────────── -->
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D9488,100:0F766E&height=3" width="100%" alt="" />
 
 <p align="center">
   <b>Let's build something that matters.</b><br/>
