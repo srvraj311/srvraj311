@@ -29,6 +29,7 @@ import {
   Instagram,
   ChevronLeft,
   ChevronRight,
+  MapPin,
 } from "lucide-react";
 
 // ─── Constants ────────────────────────────────────────────────────────────────
@@ -919,26 +920,14 @@ function About() {
           >
             <div className="relative rounded-2xl overflow-hidden bg-[var(--muted)]">
               <img
-                src="https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=700&h=800&fit=crop&auto=format"
-                alt="Developer workspace with code"
-                className="w-full object-cover aspect-[3/2] md:aspect-[4/5]"
+                src="/img/about.webp"
+                alt="Sourabh's desk — the setup most of this work gets built on"
+                className="w-full object-cover aspect-[4/3] md:aspect-[4/5]"
               />
-              <div className="absolute inset-0 bg-gradient-to-t from-[#050505]/60 to-transparent" />
-              <div
-                className="absolute bottom-4 left-4 right-4 p-4 rounded-xl border border-[var(--hairline)] backdrop-blur-xl"
-                style={{ backgroundColor: "rgba(5,5,5,0.8)" }}
-              >
-                <div className="font-mono text-xs text-muted-foreground">
-                  <span className="text-primary">const</span>{" "}
-                  <span className="text-foreground">engineer</span>{" "}
-                  <span className="text-muted-foreground">= </span>
-                  <span className="text-[#10b981]">"Sourabh"</span>
-                </div>
-                <div className="font-mono text-xs text-muted-foreground mt-1">
-                  <span className="text-primary">focus</span>
-                  <span className="text-muted-foreground">:</span>{" "}
-                  <span className="text-[#f59e0b]">"impact over buzzwords"</span>
-                </div>
+              <div className="absolute inset-x-0 bottom-0 h-1/3 bg-gradient-to-t from-black/70 to-transparent" />
+              <div className="absolute bottom-4 left-4 right-4 flex items-center gap-2 text-xs text-white/85">
+                <MapPin size={13} className="shrink-0" />
+                <span>My desk — where most of this gets built.</span>
               </div>
             </div>
           </motion.div>
