@@ -97,12 +97,12 @@ const sourabh = {
 
 | Project | What it is | Stack | Live |
 | :--- | :--- | :--- | :---: |
+| **[Shortify](https://github.com/srvraj311/shortify-url-shortener)** | URL shortener rebuilt into a production-grade system — cache-aside redirects, token-bucket rate limiting, async analytics via a transactional outbox (idempotent workers + DLQ), circuit breakers, structured logging, `/metrics`, and an admin failure-injection lab | `Next.js` · `TS` · `MongoDB` · `Redis` · `System Design` | [🔗 live](https://shrtfy.vercel.app) |
 | **[Eduverse.ai](https://github.com/srvraj311/eduverse_ai)** | AI that generates personalized learning paths — age, language & duration aware | `React` · `FastAPI` · `Python` · `LLaMA 3 70B` · `Groq` | [repo](https://github.com/srvraj311/eduverse_ai) |
 | **[Health.io](https://github.com/srvraj311/health-io-api)** | AI healthcare automation — digital prescriptions, medication advice, hospital accounts | `React Native` · `Spring` · `Angular` · `MongoDB` | [api](https://github.com/srvraj311/health-io-api) · [app](https://github.com/srvraj311/health-io-app) · [web](https://github.com/srvraj311/health-io-hospital) |
 | **[enWrite](https://enwrite-web.web.app)** | Clean cross-platform notes with real-time cloud sync | `Angular` · `Android` · `Node` · `Firebase` | [🔗 live](https://enwrite-web.web.app) |
 | **[Ivory Minimal](https://play.google.com/store/apps/details?id=com.srv.ivory)** | Minimal Android icon pack — 300+ hand-drawn icons, **10K+** installs | `Android` · `Photoshop` · `Illustrator` | [🔗 play store](https://play.google.com/store/apps/details?id=com.srv.ivory) |
 | **[Seat Allocation](https://github.com/srvraj311/seat-allocation-fullstack)** | Dynamic-programming seat-booking algorithm — built for an Unstop hiring challenge | `Angular` · `Node` · `Express` · `MongoDB` | [🔗 live](https://seat-allocation-fullstack.vercel.app) |
-| **[Shortify](https://github.com/srvraj311/shortify-url-shortener)** | MEAN URL shortener — key-based mapping, built & deployed in under 4 hours | `MongoDB` · `Express` · `Angular` · `Node` | [🔗 live](https://shrtfy.vercel.app) |
 
 <div align="right"><sub><a href="https://github.com/srvraj311?tab=repositories">→ all repositories</a></sub></div>
 

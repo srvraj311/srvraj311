@@ -110,6 +110,18 @@ const PROJECTS: Project[] = [
   },
   {
     id: 3,
+    title: "Shortify",
+    subtitle: "URL Shortener · System-Design Reference",
+    description:
+      "A URL shortener rebuilt from a plain CRUD app into a production-grade system, one component at a time - cache-aside redirects, a Redis token-bucket rate limiter, async analytics via a transactional outbox (idempotent workers + a dead-letter queue), circuit breakers, structured logging, a /metrics endpoint, and an admin failure-injection lab. Every dependency degrades gracefully.",
+    tags: ["Next.js", "TypeScript", "Redis", "System Design", "MongoDB"],
+    cover: "shortener",
+    accent: "#14b8a6",
+    link: "https://shrtfy.vercel.app",
+    linkLabel: "Open live app",
+  },
+  {
+    id: 4,
     title: "Eduverse.ai",
     subtitle: "AI-Powered Learning Paths",
     description:
@@ -121,7 +133,7 @@ const PROJECTS: Project[] = [
     linkLabel: "View on GitHub",
   },
   {
-    id: 4,
+    id: 5,
     title: "Health.io",
     subtitle: "Healthcare Automation Platform",
     description:
@@ -133,7 +145,7 @@ const PROJECTS: Project[] = [
     linkLabel: "View on GitHub",
   },
   {
-    id: 5,
+    id: 6,
     title: "enWrite",
     subtitle: "Cross-Platform Notes App",
     description:
@@ -145,7 +157,7 @@ const PROJECTS: Project[] = [
     linkLabel: "Open live app",
   },
   {
-    id: 6,
+    id: 7,
     title: "Ivory Minimal",
     subtitle: "Android Icon Pack",
     description:
@@ -157,7 +169,7 @@ const PROJECTS: Project[] = [
     linkLabel: "View on Play Store",
   },
   {
-    id: 7,
+    id: 8,
     title: "Seat Allocation System",
     subtitle: "Algorithm · Hiring Challenge",
     description:
@@ -168,18 +180,6 @@ const PROJECTS: Project[] = [
     link: "https://seat-allocation-fullstack.vercel.app",
     linkLabel: "Open live app",
   },
-  {
-    id: 8,
-    title: "Shortify",
-    subtitle: "URL Shortener",
-    description:
-      "A MEAN-stack URL shortener with key-based mapping - built and deployed end-to-end in under four hours as a personal challenge.",
-    tags: ["MongoDB", "Express", "Angular", "Node.js"],
-    cover: "shortener",
-    accent: "#7C3AED",
-    link: "https://shrtfy.vercel.app",
-    linkLabel: "Open live app",
-  },
 ];
 
 const EXPERTISE = [
@@ -187,7 +187,7 @@ const EXPERTISE = [
     icon: <Database size={22} />,
     title: "Backend",
     color: "#7C3AED",
-    skills: ["Java", "Spring Boot", "Node.js", "Express.js", "Python", "Flask", "REST APIs", "SQL"],
+    skills: ["Java", "Spring Boot", "Node.js", "Express.js", "Python", "REST APIs", "SQL", "MongoDB", "Redis"],
   },
   {
     icon: <Layers size={22} />,
@@ -205,7 +205,7 @@ const EXPERTISE = [
     icon: <Activity size={22} />,
     title: "System Design",
     color: "#f59e0b",
-    skills: ["Scalability", "Caching", "Database Design", "Algorithms", "High Availability"],
+    skills: ["Caching", "Rate Limiting", "Event-Driven", "Idempotency", "Fault Tolerance", "Observability", "Scalability"],
   },
   {
     icon: <Cpu size={22} />,
@@ -311,6 +311,12 @@ const RECOGNITION: { title: string; org: string; href?: string }[] = [
 
 const REPOS = [
   {
+    name: "shortify-url-shortener",
+    desc: "URL shortener rebuilt as a system-design reference - caching, token-bucket rate limiting, outbox + DLQ, circuit breakers, observability, chaos lab, ADRs.",
+    lang: "TypeScript",
+    href: "https://github.com/srvraj311/shortify-url-shortener",
+  },
+  {
     name: "eduverse_ai",
     desc: "AI learning-path generator - LLaMA 3 70B via Groq, React + FastAPI.",
     lang: "Python",
@@ -351,12 +357,6 @@ const REPOS = [
     desc: "Dynamic-programming seat-booking algorithm on a MEAN-stack app.",
     lang: "TypeScript",
     href: "https://github.com/srvraj311/seat-allocation-fullstack",
-  },
-  {
-    name: "shortify-url-shortener",
-    desc: "MEAN-stack URL shortener - built & deployed in under 4 hours.",
-    lang: "TypeScript",
-    href: "https://github.com/srvraj311/shortify-url-shortener",
   },
 ];
 
